@@ -7,6 +7,7 @@ const dist = path.resolve("dist");
 const htmlFiles = await collectHtml(dist);
 const expectedPagesPerLocale = 13;
 const expectedHtmlCount = locales.length * expectedPagesPerLocale;
+const expectedDomain = site.domain.replaceAll(".", "\\.");
 const forbiddenConversationTerms = [
   "ChatGPT",
   "Codex",
@@ -44,7 +45,7 @@ for (const file of htmlFiles) {
   assert(count(html, /<h1[\s>]/g) === 1, `${rel} must contain exactly one h1`);
   assert(/<title>[^<]{12,}<\/title>/.test(html), `${rel} missing useful title`);
   assert(/<meta name="description" content="[^"]{40,220}"/.test(html), `${rel} missing useful meta description`);
-  assert(/<link rel="canonical" href="https:\/\/www\.hy-machinery\.com\//.test(html), `${rel} missing canonical`);
+  assert(new RegExp(`<link rel="canonical" href="${expectedDomain}/`).test(html), `${rel} missing canonical`);
   assert(count(html, /rel="alternate" hreflang="/g) >= locales.length + 1, `${rel} missing hreflang alternates`);
   assert(html.includes('hreflang="x-default"'), `${rel} missing x-default hreflang`);
   assert(!html.includes("中文"), `${rel} includes Chinese language label`);

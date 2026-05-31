@@ -14,6 +14,9 @@ npm run deploy:cloudflare
 ## Deployment
 
 - Cloudflare Worker service: `withered-base-b92f`
+- Production URL: `https://www.plasticsmachinevn.com`
+- Apex redirect: `https://plasticsmachinevn.com` -> `https://www.plasticsmachinevn.com`
+- Current deployed Worker version: `33e54518-ae6a-499f-88cd-1205008a0d62`
 - Static output: `dist`
 - Worker entry: `src/worker.js`
 - Inquiry endpoint: `/submit-inquiry`

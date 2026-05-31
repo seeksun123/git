@@ -84,6 +84,11 @@ export default {
   async fetch(request, env) {
     const url = new URL(request.url);
 
+    if (url.hostname === "plasticsmachinevn.com") {
+      url.hostname = "www.plasticsmachinevn.com";
+      return Response.redirect(url.toString(), 301);
+    }
+
     if (request.method === "POST" && url.pathname === "/submit-inquiry") {
       return handleInquiry(request, env);
     }

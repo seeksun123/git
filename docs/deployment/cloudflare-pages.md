@@ -36,7 +36,7 @@ The script verifies the site, rebuilds `dist`, refreshes the zip package, and de
 1. Add the production domain to the Worker route or custom domain.
 2. Use SSL/TLS mode: Full (strict).
 3. Enable Always Use HTTPS.
-4. Confirm `https://www.hy-machinery.com/` loads from Cloudflare and no longer depends on the expired certificate seen on the old origin.
+4. Confirm `https://www.plasticsmachinevn.com/` loads from Cloudflare.
 
 ## Static Files
 
@@ -61,7 +61,7 @@ There is no database and no WordPress runtime in production.
 
 ## DNS Cutover
 
-1. Add `www.hy-machinery.com` as a custom domain or route on the Worker.
+1. Add `www.plasticsmachinevn.com` and `plasticsmachinevn.com` as routes on the Worker.
 2. Point DNS to Cloudflare and keep the record proxied.
-3. Add a redirect from apex `hy-machinery.com` to `www.hy-machinery.com` if the apex domain is also active.
+3. Keep the Worker apex redirect from `plasticsmachinevn.com` to `www.plasticsmachinevn.com`.
 4. Keep the old WordPress origin available only until the new Worker deployment is verified.

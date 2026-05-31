@@ -1,7 +1,12 @@
 name = "withered-base-b92f"
 main = "src/worker.js"
 compatibility_date = "2026-05-31"
+routes = [
+  { pattern = "plasticsmachinevn.com/*", zone_name = "plasticsmachinevn.com" },
+  { pattern = "www.plasticsmachinevn.com/*", zone_name = "plasticsmachinevn.com" }
+]
 
 [assets]
 directory = "./dist"
 binding = "ASSETS"
+run_worker_first = true
