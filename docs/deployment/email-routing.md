@@ -1,18 +1,18 @@
 # Inquiry Email Routing
 
-The generated site uses a direct `mailto:Danny@hy-machinery.com` fallback on all inquiry forms, so it works without a database or server.
+The generated site uses a direct `mailto:info@plasticsmachinevn.com` fallback on all inquiry forms, so it works without a database or server.
 
 Optional server-side delivery is available through the Cloudflare Worker route at `/submit-inquiry` if a transactional email provider is configured. The frontend tries `/submit-inquiry` first and automatically opens the visitor's email app if the endpoint is not configured or returns an error.
 
 ## Recipient
 
-- Primary recipient: `Danny@hy-machinery.com`
+- Primary recipient: `info@plasticsmachinevn.com`
 
 ## Optional Environment Variables
 
 - `RESEND_API_KEY`: API key for Resend email delivery.
-- `INQUIRY_FROM`: verified sender, for example `HY Machinery <inquiry@hy-machinery.com>`.
-- `INQUIRY_TO`: recipient override; default is `Danny@hy-machinery.com`.
+- `INQUIRY_FROM`: verified sender, for example `HY Machinery <info@plasticsmachinevn.com>`.
+- `INQUIRY_TO`: recipient override; default is `info@plasticsmachinevn.com`.
 
 Copy `.env.example` when preparing production environment variables.
 

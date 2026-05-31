@@ -7,6 +7,16 @@ const dist = path.resolve("dist");
 const htmlFiles = await collectHtml(dist);
 const expectedPagesPerLocale = 13;
 const expectedHtmlCount = locales.length * expectedPagesPerLocale;
+const forbiddenConversationTerms = [
+  "ChatGPT",
+  "Codex",
+  "assistant",
+  "用户",
+  "对话",
+  "我们的对话",
+  "帮我",
+  "推进下一步"
+];
 
 if (htmlFiles.length !== expectedHtmlCount) {
   throw new Error(`Expected ${expectedHtmlCount} HTML pages, found ${htmlFiles.length}`);
@@ -45,6 +55,9 @@ for (const file of htmlFiles) {
   assert(!html.includes("mysql"), `${rel} includes database wording`);
   assert(!html.includes("postgres"), `${rel} includes database wording`);
   assert(!html.includes("mongodb"), `${rel} includes database wording`);
+  for (const term of forbiddenConversationTerms) {
+    assert(!html.includes(term), `${rel} includes internal conversation term: ${term}`);
+  }
   assert(!html.includes("operates from Foshan with approximately"), `${rel} has English template company copy`);
   assert(!html.includes("The article links"), `${rel} has English template blog copy`);
   if (!rel.startsWith("products/") && rel.includes(`${path.sep}products${path.sep}`)) {

@@ -26,4 +26,5 @@ Reuse rule: copy structure, products, images, specs, and contact facts only afte
   - Address: No. 1 Sanhe Road, Gaoming Cangjiang Industrial Park, Foshan city
   - Telephone: +86-757-88820000
   - Mobile: +86-13928528302
-  - Email: Danny@hy-machinery.com
+  - Email on the source site: Danny@hy-machinery.com
+  - Email for the new localized site: info@plasticsmachinevn.com

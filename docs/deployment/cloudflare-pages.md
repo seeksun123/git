@@ -57,7 +57,7 @@ There is no database and no WordPress runtime in production.
 2. Open `/ar/` and confirm right-to-left layout.
 3. Open one product page and one blog article.
 4. Submit a test inquiry by email fallback or configured form endpoint.
-5. Submit `https://www.hy-machinery.com/sitemap.xml` in Google Search Console.
+5. Wait for owner approval before any Google Search Console submission.
 
 ## DNS Cutover
 

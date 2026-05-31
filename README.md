@@ -17,7 +17,7 @@ npm run deploy:cloudflare
 - Static output: `dist`
 - Worker entry: `src/worker.js`
 - Inquiry endpoint: `/submit-inquiry`
-- Email fallback: `mailto:Danny@hy-machinery.com`
+- Email fallback: `mailto:info@plasticsmachinevn.com`
 
 Set these Cloudflare Worker variables if server-side email delivery is required:
 

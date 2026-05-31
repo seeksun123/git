@@ -16,7 +16,7 @@
 
 ## Inquiry Checks
 
-- Direct email fallback opens a message to `Danny@hy-machinery.com`.
+- Direct email fallback opens a message to `info@plasticsmachinevn.com`.
 - Product name is included in product-page inquiry forms.
 - Required email and message fields are present.
 - Honeypot field is hidden.
@@ -28,7 +28,7 @@
 - Each page has canonical and hreflang links.
 - Product pages include Product JSON-LD.
 - Blog articles include BlogPosting JSON-LD.
-- Submit sitemap in Google Search Console after deployment.
+- Do not submit the site, URLs, or sitemap to Google Search Console until the owner has fully reviewed and approved the website.
 
 ## Cloudflare Checks
 

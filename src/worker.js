@@ -65,8 +65,8 @@ async function handleInquiry(request, env) {
       "Content-Type": "application/json"
     },
     body: JSON.stringify({
-      from: env.INQUIRY_FROM || "HY Machinery <inquiry@hy-machinery.com>",
-      to: [env.INQUIRY_TO || "Danny@hy-machinery.com"],
+      from: env.INQUIRY_FROM || "HY Machinery <info@plasticsmachinevn.com>",
+      to: [env.INQUIRY_TO || "info@plasticsmachinevn.com"],
       reply_to: email,
       subject: `HY Machinery inquiry - ${form.get("product") || "Website"}`,
       text: lines.join("\n")
