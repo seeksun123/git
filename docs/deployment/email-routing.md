@@ -2,7 +2,7 @@
 
 The generated site uses a direct `mailto:Danny@hy-machinery.com` fallback on all inquiry forms, so it works without a database or server.
 
-Optional server-side delivery is available through the Cloudflare Pages Function at `/submit-inquiry` if a transactional email provider is configured. The frontend tries `/submit-inquiry` first and automatically opens the visitor's email app if the endpoint is not configured or returns an error.
+Optional server-side delivery is available through the Cloudflare Worker route at `/submit-inquiry` if a transactional email provider is configured. The frontend tries `/submit-inquiry` first and automatically opens the visitor's email app if the endpoint is not configured or returns an error.
 
 ## Recipient
 
@@ -16,9 +16,9 @@ Optional server-side delivery is available through the Cloudflare Pages Function
 
 Copy `.env.example` when preparing production environment variables.
 
-## Cloudflare Pages Variables
+## Cloudflare Worker Variables
 
-Set these in Cloudflare Pages project settings:
+Set these in the Cloudflare Worker service settings:
 
 ```text
 RESEND_API_KEY

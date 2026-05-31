@@ -1,10 +1,10 @@
-# Cloudflare Pages Deployment
+# Cloudflare Workers Deployment
 
 ## Build Settings
 
 - Framework preset: None
 - Build command: `npm run build`
-- Output directory: `dist`
+- Static assets directory: `dist`
 - Node.js: current LTS or newer
 
 ## Local Package
@@ -29,14 +29,14 @@ After logging in with Wrangler or setting `CLOUDFLARE_API_TOKEN`, run:
 npm run deploy:cloudflare
 ```
 
-The script verifies the site, rebuilds `dist`, refreshes the zip package, and deploys the `dist` directory to the Pages project named `hy-machinery-static-site`.
+The script verifies the site, rebuilds `dist`, refreshes the zip package, and deploys the Worker service named `withered-base-b92f` with `dist` served through Cloudflare Workers Assets.
 
 ## Domain And SSL
 
-1. Add the production domain in Cloudflare Pages.
+1. Add the production domain to the Worker route or custom domain.
 2. Use SSL/TLS mode: Full (strict).
 3. Enable Always Use HTTPS.
-4. Confirm `https://www.hy-machinery.com/` loads from Cloudflare Pages and no longer depends on the expired certificate seen on the old origin.
+4. Confirm `https://www.hy-machinery.com/` loads from Cloudflare and no longer depends on the expired certificate seen on the old origin.
 
 ## Static Files
 
@@ -61,7 +61,7 @@ There is no database and no WordPress runtime in production.
 
 ## DNS Cutover
 
-1. Add `www.hy-machinery.com` as a custom domain in Cloudflare Pages.
-2. Point DNS to the Pages target shown by Cloudflare.
+1. Add `www.hy-machinery.com` as a custom domain or route on the Worker.
+2. Point DNS to Cloudflare and keep the record proxied.
 3. Add a redirect from apex `hy-machinery.com` to `www.hy-machinery.com` if the apex domain is also active.
-4. Keep the old WordPress origin available only until the new Pages deployment is verified.
+4. Keep the old WordPress origin available only until the new Worker deployment is verified.
