@@ -1,0 +1,22 @@
+[
+  {"code":"en","path":"","name":"English","native":"English","dir":"ltr","currency":"USD","date":"May 31, 2026","decimal":"."},
+  {"code":"es","path":"es","name":"Spanish","native":"Español","dir":"ltr","currency":"EUR/USD","date":"31 de mayo de 2026","decimal":","},
+  {"code":"ar","path":"ar","name":"Arabic","native":"العربية","dir":"rtl","currency":"USD/AED/SAR","date":"31 مايو 2026","decimal":"."},
+  {"code":"fr","path":"fr","name":"French","native":"Français","dir":"ltr","currency":"EUR","date":"31 mai 2026","decimal":","},
+  {"code":"ru","path":"ru","name":"Russian","native":"Русский","dir":"ltr","currency":"USD/EUR","date":"31 мая 2026 г.","decimal":","},
+  {"code":"pt","path":"pt","name":"Portuguese","native":"Português","dir":"ltr","currency":"USD/EUR/BRL","date":"31 de maio de 2026","decimal":","},
+  {"code":"de","path":"de","name":"German","native":"Deutsch","dir":"ltr","currency":"EUR","date":"31. Mai 2026","decimal":","},
+  {"code":"vi","path":"vi","name":"Vietnamese","native":"Tiếng Việt","dir":"ltr","currency":"USD/VND","date":"31/05/2026","decimal":","},
+  {"code":"ja","path":"ja","name":"Japanese","native":"日本語","dir":"ltr","currency":"JPY/USD","date":"2026年5月31日","decimal":"."},
+  {"code":"ko","path":"ko","name":"Korean","native":"한국어","dir":"ltr","currency":"KRW/USD","date":"2026년 5월 31일","decimal":"."},
+  {"code":"it","path":"it","name":"Italian","native":"Italiano","dir":"ltr","currency":"EUR","date":"31 maggio 2026","decimal":","},
+  {"code":"tr","path":"tr","name":"Turkish","native":"Türkçe","dir":"ltr","currency":"USD/TRY","date":"31 Mayıs 2026","decimal":","},
+  {"code":"pl","path":"pl","name":"Polish","native":"Polski","dir":"ltr","currency":"EUR/PLN","date":"31 maja 2026","decimal":","},
+  {"code":"th","path":"th","name":"Thai","native":"ไทย","dir":"ltr","currency":"THB/USD","date":"31 พฤษภาคม 2026","decimal":"."},
+  {"code":"id","path":"id","name":"Indonesian","native":"Bahasa Indonesia","dir":"ltr","currency":"IDR/USD","date":"31 Mei 2026","decimal":","},
+  {"code":"hi","path":"hi","name":"Hindi","native":"हिन्दी","dir":"ltr","currency":"INR/USD","date":"31 मई 2026","decimal":"."},
+  {"code":"ms","path":"ms","name":"Malay","native":"Bahasa Melayu","dir":"ltr","currency":"MYR/USD","date":"31 Mei 2026","decimal":"."},
+  {"code":"nl","path":"nl","name":"Dutch","native":"Nederlands","dir":"ltr","currency":"EUR","date":"31 mei 2026","decimal":","},
+  {"code":"bn","path":"bn","name":"Bengali","native":"বাংলা","dir":"ltr","currency":"BDT/USD","date":"৩১ মে ২০২৬","decimal":"."},
+  {"code":"sv","path":"sv","name":"Swedish","native":"Svenska","dir":"ltr","currency":"SEK/EUR","date":"31 maj 2026","decimal":","}
+]

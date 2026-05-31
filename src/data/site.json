@@ -1,0 +1,66 @@
+{
+  "brand": "Hongyi Machinery",
+  "company": "Foshan Gaoming Hongyi Machinery Co., Ltd.",
+  "founded": 1998,
+  "factoryAreaM2": 60000,
+  "address": "No. 1 Sanhe Road, Cangjiang Industrial Park, Gaoming District, Foshan, Guangdong, China",
+  "phone": "+86-757-88820000",
+  "mobile": "+86-13928528302",
+  "email": "Danny@hy-machinery.com",
+  "domain": "https://www.hy-machinery.com",
+  "products": [
+    {
+      "id": "gravure-printing-machine",
+      "sourceName": "Printing Machine",
+      "image": "/assets/img/printing-machine.jpg",
+      "materials": ["PVC", "PE", "BOPP", "CPP", "flexible film", "cloth"],
+      "specs": {
+        "application": "Flexible packaging film and PVC/PE printing",
+        "print": "WZ/YZ gravure printing series",
+        "voltage": "380 V, 50 Hz",
+        "customVoltage": "220/440 V, 50/60 Hz available after engineering review"
+      }
+    },
+    {
+      "id": "tarpaulin-laminating-machine",
+      "sourceName": "Flex and Tarpaulin Laminating Machine",
+      "image": "/assets/img/tarpaulin-laminating-machine.jpg",
+      "materials": ["PVC film", "tarpaulin", "tent fabric", "flex banner"],
+      "specs": {
+        "width": "1600-2000 mm",
+        "speed": "3-60 m/min",
+        "heating": "hot oil or electric heating",
+        "tension": "manual or automatic tension control",
+        "voltage": "380 V, 50 Hz",
+        "power": "45 kW"
+      }
+    },
+    {
+      "id": "furniture-film-laminating-machine",
+      "sourceName": "Furniture Film Laminating Machine",
+      "image": "/assets/img/furniture-film-laminating-machine.jpg",
+      "materials": ["PVC decorative film", "wood grain film", "edge banding film"],
+      "specs": {
+        "application": "Furniture decoration film and packaging material laminating",
+        "line": "printing, laminating, rewinding and slitting options",
+        "voltage": "380 V, 50 Hz",
+        "customVoltage": "configured by project"
+      }
+    },
+    {
+      "id": "calender-winder",
+      "sourceName": "Calender Winder",
+      "image": "/assets/img/calender-winder.jpg",
+      "materials": ["PVC", "PE", "semi-rigid film", "rigid film"],
+      "specs": {
+        "width": "1600-2100 mm",
+        "speed": "10-380 m/min",
+        "heating": "warm water preheating",
+        "tension": "automatic tension control",
+        "voltage": "380 V, 50 Hz",
+        "power": "40 kW"
+      }
+    }
+  ],
+  "cases": ["Fujian Sijia", "Zhejiang Tianxing", "Zhejiang Dejia", "Hangzhou Helin", "Tianjin Blue Ocean", "Hebei Zhengyang"]
+}

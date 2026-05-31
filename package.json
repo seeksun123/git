@@ -1,0 +1,12 @@
+{
+  "name": "hy-machinery-static-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node src/build.js",
+    "validate": "node src/validate.js",
+    "verify": "npm run build && npm run validate",
+    "package": "npm run verify && node scripts/package-dist.js",
+    "deploy:cloudflare": "npm run package && npx wrangler pages deploy dist --project-name hy-machinery-static-site"
+  }
+}

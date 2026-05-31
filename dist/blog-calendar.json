@@ -1,0 +1,4622 @@
+[
+  {
+    "locale": "en",
+    "path": "/blog/",
+    "currency": "USD",
+    "dateExample": "May 31, 2026",
+    "topics": [
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC tarpaulin laminating machine buying guide",
+        "primaryKeywords": [
+          "PVC tarpaulin laminating machine",
+          "flex banner laminating machine",
+          "tent fabric laminating machine",
+          "PVC film coating line"
+        ],
+        "targetProductPage": "/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "specification",
+        "seedTitle": "1600 mm vs 2000 mm PVC tarpaulin laminating line",
+        "primaryKeywords": [
+          "PVC tarpaulin laminating machine",
+          "flex banner laminating machine",
+          "tent fabric laminating machine",
+          "PVC film coating line"
+        ],
+        "targetProductPage": "/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "comparison",
+        "seedTitle": "Hot oil heating or electric heating for PVC laminating",
+        "primaryKeywords": [
+          "PVC tarpaulin laminating machine",
+          "flex banner laminating machine",
+          "tent fabric laminating machine",
+          "PVC film coating line"
+        ],
+        "targetProductPage": "/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Flex banner laminating machine quotation checklist",
+        "primaryKeywords": [
+          "PVC tarpaulin laminating machine",
+          "flex banner laminating machine",
+          "tent fabric laminating machine",
+          "PVC film coating line"
+        ],
+        "targetProductPage": "/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC film gravure printing machine for flexible packaging",
+        "primaryKeywords": [
+          "gravure printing machine",
+          "PVC film printing machine",
+          "flexible packaging printing machine",
+          "BOPP film gravure printer"
+        ],
+        "targetProductPage": "/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "material",
+        "seedTitle": "BOPP CPP PE film gravure printer material guide",
+        "primaryKeywords": [
+          "gravure printing machine",
+          "PVC film printing machine",
+          "flexible packaging printing machine",
+          "BOPP film gravure printer"
+        ],
+        "targetProductPage": "/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "comparison",
+        "seedTitle": "Shaftless gravure printing machine buyer questions",
+        "primaryKeywords": [
+          "gravure printing machine",
+          "PVC film printing machine",
+          "flexible packaging printing machine",
+          "BOPP film gravure printer"
+        ],
+        "targetProductPage": "/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "technical",
+        "seedTitle": "Ink drying and tension control in film printing lines",
+        "primaryKeywords": [
+          "gravure printing machine",
+          "PVC film printing machine",
+          "flexible packaging printing machine",
+          "BOPP film gravure printer"
+        ],
+        "targetProductPage": "/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "commercial",
+        "seedTitle": "Automatic calender winder for PVC sheet lines",
+        "primaryKeywords": [
+          "calender winder",
+          "PVC film rewinding machine",
+          "automatic center winder",
+          "plastic sheet winder"
+        ],
+        "targetProductPage": "/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "specification",
+        "seedTitle": "How to choose winding width and roll diameter",
+        "primaryKeywords": [
+          "calender winder",
+          "PVC film rewinding machine",
+          "automatic center winder",
+          "plastic sheet winder"
+        ],
+        "targetProductPage": "/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "technical",
+        "seedTitle": "Automatic cutter options for center winding machines",
+        "primaryKeywords": [
+          "calender winder",
+          "PVC film rewinding machine",
+          "automatic center winder",
+          "plastic sheet winder"
+        ],
+        "targetProductPage": "/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "maintenance",
+        "seedTitle": "PVC PE film rewinding machine maintenance checklist",
+        "primaryKeywords": [
+          "calender winder",
+          "PVC film rewinding machine",
+          "automatic center winder",
+          "plastic sheet winder"
+        ],
+        "targetProductPage": "/products/calender-winder/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "Furniture film laminating machine for wood grain film",
+        "primaryKeywords": [
+          "furniture film laminating machine",
+          "PVC decorative film laminating machine",
+          "wood grain film laminating line"
+        ],
+        "targetProductPage": "/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "layout",
+        "seedTitle": "PVC decorative film line layout checklist",
+        "primaryKeywords": [
+          "furniture film laminating machine",
+          "PVC decorative film laminating machine",
+          "wood grain film laminating line"
+        ],
+        "targetProductPage": "/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "application",
+        "seedTitle": "Edge banding film laminating and rewinding options",
+        "primaryKeywords": [
+          "furniture film laminating machine",
+          "PVC decorative film laminating machine",
+          "wood grain film laminating line"
+        ],
+        "targetProductPage": "/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Furniture film laminating line quotation factors",
+        "primaryKeywords": [
+          "furniture film laminating machine",
+          "PVC decorative film laminating machine",
+          "wood grain film laminating line"
+        ],
+        "targetProductPage": "/products/furniture-film-laminating-machine/"
+      }
+    ]
+  },
+  {
+    "locale": "es",
+    "path": "/es/blog/",
+    "currency": "EUR/USD",
+    "dateExample": "31 de mayo de 2026",
+    "topics": [
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC tarpaulin laminating machine buying guide",
+        "primaryKeywords": [
+          "Máquina laminadora para lona PVC fabricante",
+          "Máquina laminadora para lona PVC proveedor",
+          "Máquina laminadora para lona PVC precio",
+          "Máquina laminadora para lona PVC cotización",
+          "Máquina laminadora para lona PVC película PVC, lona, tejido para carpas y flex banner"
+        ],
+        "targetProductPage": "/es/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "specification",
+        "seedTitle": "1600 mm vs 2000 mm PVC tarpaulin laminating line",
+        "primaryKeywords": [
+          "Máquina laminadora para lona PVC fabricante",
+          "Máquina laminadora para lona PVC proveedor",
+          "Máquina laminadora para lona PVC precio",
+          "Máquina laminadora para lona PVC cotización",
+          "Máquina laminadora para lona PVC película PVC, lona, tejido para carpas y flex banner"
+        ],
+        "targetProductPage": "/es/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "comparison",
+        "seedTitle": "Hot oil heating or electric heating for PVC laminating",
+        "primaryKeywords": [
+          "Máquina laminadora para lona PVC fabricante",
+          "Máquina laminadora para lona PVC proveedor",
+          "Máquina laminadora para lona PVC precio",
+          "Máquina laminadora para lona PVC cotización",
+          "Máquina laminadora para lona PVC película PVC, lona, tejido para carpas y flex banner"
+        ],
+        "targetProductPage": "/es/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Flex banner laminating machine quotation checklist",
+        "primaryKeywords": [
+          "Máquina laminadora para lona PVC fabricante",
+          "Máquina laminadora para lona PVC proveedor",
+          "Máquina laminadora para lona PVC precio",
+          "Máquina laminadora para lona PVC cotización",
+          "Máquina laminadora para lona PVC película PVC, lona, tejido para carpas y flex banner"
+        ],
+        "targetProductPage": "/es/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC film gravure printing machine for flexible packaging",
+        "primaryKeywords": [
+          "Máquina de impresión en huecograbado fabricante",
+          "Máquina de impresión en huecograbado proveedor",
+          "Máquina de impresión en huecograbado precio",
+          "Máquina de impresión en huecograbado cotización",
+          "Máquina de impresión en huecograbado PVC, PE, BOPP, CPP, película flexible y tejido"
+        ],
+        "targetProductPage": "/es/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "material",
+        "seedTitle": "BOPP CPP PE film gravure printer material guide",
+        "primaryKeywords": [
+          "Máquina de impresión en huecograbado fabricante",
+          "Máquina de impresión en huecograbado proveedor",
+          "Máquina de impresión en huecograbado precio",
+          "Máquina de impresión en huecograbado cotización",
+          "Máquina de impresión en huecograbado PVC, PE, BOPP, CPP, película flexible y tejido"
+        ],
+        "targetProductPage": "/es/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "comparison",
+        "seedTitle": "Shaftless gravure printing machine buyer questions",
+        "primaryKeywords": [
+          "Máquina de impresión en huecograbado fabricante",
+          "Máquina de impresión en huecograbado proveedor",
+          "Máquina de impresión en huecograbado precio",
+          "Máquina de impresión en huecograbado cotización",
+          "Máquina de impresión en huecograbado PVC, PE, BOPP, CPP, película flexible y tejido"
+        ],
+        "targetProductPage": "/es/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "technical",
+        "seedTitle": "Ink drying and tension control in film printing lines",
+        "primaryKeywords": [
+          "Máquina de impresión en huecograbado fabricante",
+          "Máquina de impresión en huecograbado proveedor",
+          "Máquina de impresión en huecograbado precio",
+          "Máquina de impresión en huecograbado cotización",
+          "Máquina de impresión en huecograbado PVC, PE, BOPP, CPP, película flexible y tejido"
+        ],
+        "targetProductPage": "/es/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "commercial",
+        "seedTitle": "Automatic calender winder for PVC sheet lines",
+        "primaryKeywords": [
+          "Bobinadora para línea de calandra fabricante",
+          "Bobinadora para línea de calandra proveedor",
+          "Bobinadora para línea de calandra precio",
+          "Bobinadora para línea de calandra cotización",
+          "Bobinadora para línea de calandra PVC, PE, film semirrígido y film rígido"
+        ],
+        "targetProductPage": "/es/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "specification",
+        "seedTitle": "How to choose winding width and roll diameter",
+        "primaryKeywords": [
+          "Bobinadora para línea de calandra fabricante",
+          "Bobinadora para línea de calandra proveedor",
+          "Bobinadora para línea de calandra precio",
+          "Bobinadora para línea de calandra cotización",
+          "Bobinadora para línea de calandra PVC, PE, film semirrígido y film rígido"
+        ],
+        "targetProductPage": "/es/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "technical",
+        "seedTitle": "Automatic cutter options for center winding machines",
+        "primaryKeywords": [
+          "Bobinadora para línea de calandra fabricante",
+          "Bobinadora para línea de calandra proveedor",
+          "Bobinadora para línea de calandra precio",
+          "Bobinadora para línea de calandra cotización",
+          "Bobinadora para línea de calandra PVC, PE, film semirrígido y film rígido"
+        ],
+        "targetProductPage": "/es/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "maintenance",
+        "seedTitle": "PVC PE film rewinding machine maintenance checklist",
+        "primaryKeywords": [
+          "Bobinadora para línea de calandra fabricante",
+          "Bobinadora para línea de calandra proveedor",
+          "Bobinadora para línea de calandra precio",
+          "Bobinadora para línea de calandra cotización",
+          "Bobinadora para línea de calandra PVC, PE, film semirrígido y film rígido"
+        ],
+        "targetProductPage": "/es/products/calender-winder/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "Furniture film laminating machine for wood grain film",
+        "primaryKeywords": [
+          "Laminadora de film decorativo para muebles fabricante",
+          "Laminadora de film decorativo para muebles proveedor",
+          "Laminadora de film decorativo para muebles precio",
+          "Laminadora de film decorativo para muebles cotización",
+          "Laminadora de film decorativo para muebles film decorativo PVC, film imitación madera y canto"
+        ],
+        "targetProductPage": "/es/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "layout",
+        "seedTitle": "PVC decorative film line layout checklist",
+        "primaryKeywords": [
+          "Laminadora de film decorativo para muebles fabricante",
+          "Laminadora de film decorativo para muebles proveedor",
+          "Laminadora de film decorativo para muebles precio",
+          "Laminadora de film decorativo para muebles cotización",
+          "Laminadora de film decorativo para muebles film decorativo PVC, film imitación madera y canto"
+        ],
+        "targetProductPage": "/es/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "application",
+        "seedTitle": "Edge banding film laminating and rewinding options",
+        "primaryKeywords": [
+          "Laminadora de film decorativo para muebles fabricante",
+          "Laminadora de film decorativo para muebles proveedor",
+          "Laminadora de film decorativo para muebles precio",
+          "Laminadora de film decorativo para muebles cotización",
+          "Laminadora de film decorativo para muebles film decorativo PVC, film imitación madera y canto"
+        ],
+        "targetProductPage": "/es/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Furniture film laminating line quotation factors",
+        "primaryKeywords": [
+          "Laminadora de film decorativo para muebles fabricante",
+          "Laminadora de film decorativo para muebles proveedor",
+          "Laminadora de film decorativo para muebles precio",
+          "Laminadora de film decorativo para muebles cotización",
+          "Laminadora de film decorativo para muebles film decorativo PVC, film imitación madera y canto"
+        ],
+        "targetProductPage": "/es/products/furniture-film-laminating-machine/"
+      }
+    ]
+  },
+  {
+    "locale": "ar",
+    "path": "/ar/blog/",
+    "currency": "USD/AED/SAR",
+    "dateExample": "31 مايو 2026",
+    "topics": [
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC tarpaulin laminating machine buying guide",
+        "primaryKeywords": [
+          "ماكينة لصق مشمع PVC مصنع",
+          "ماكينة لصق مشمع PVC مورد",
+          "ماكينة لصق مشمع PVC سعر",
+          "ماكينة لصق مشمع PVC عرض سعر",
+          "ماكينة لصق مشمع PVC فيلم PVC ومشمع وقماش خيام وفلكس إعلاني"
+        ],
+        "targetProductPage": "/ar/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "specification",
+        "seedTitle": "1600 mm vs 2000 mm PVC tarpaulin laminating line",
+        "primaryKeywords": [
+          "ماكينة لصق مشمع PVC مصنع",
+          "ماكينة لصق مشمع PVC مورد",
+          "ماكينة لصق مشمع PVC سعر",
+          "ماكينة لصق مشمع PVC عرض سعر",
+          "ماكينة لصق مشمع PVC فيلم PVC ومشمع وقماش خيام وفلكس إعلاني"
+        ],
+        "targetProductPage": "/ar/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "comparison",
+        "seedTitle": "Hot oil heating or electric heating for PVC laminating",
+        "primaryKeywords": [
+          "ماكينة لصق مشمع PVC مصنع",
+          "ماكينة لصق مشمع PVC مورد",
+          "ماكينة لصق مشمع PVC سعر",
+          "ماكينة لصق مشمع PVC عرض سعر",
+          "ماكينة لصق مشمع PVC فيلم PVC ومشمع وقماش خيام وفلكس إعلاني"
+        ],
+        "targetProductPage": "/ar/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Flex banner laminating machine quotation checklist",
+        "primaryKeywords": [
+          "ماكينة لصق مشمع PVC مصنع",
+          "ماكينة لصق مشمع PVC مورد",
+          "ماكينة لصق مشمع PVC سعر",
+          "ماكينة لصق مشمع PVC عرض سعر",
+          "ماكينة لصق مشمع PVC فيلم PVC ومشمع وقماش خيام وفلكس إعلاني"
+        ],
+        "targetProductPage": "/ar/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC film gravure printing machine for flexible packaging",
+        "primaryKeywords": [
+          "ماكينة طباعة الحفر مصنع",
+          "ماكينة طباعة الحفر مورد",
+          "ماكينة طباعة الحفر سعر",
+          "ماكينة طباعة الحفر عرض سعر",
+          "ماكينة طباعة الحفر PVC وPE وBOPP وCPP وأفلام مرنة وقماش"
+        ],
+        "targetProductPage": "/ar/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "material",
+        "seedTitle": "BOPP CPP PE film gravure printer material guide",
+        "primaryKeywords": [
+          "ماكينة طباعة الحفر مصنع",
+          "ماكينة طباعة الحفر مورد",
+          "ماكينة طباعة الحفر سعر",
+          "ماكينة طباعة الحفر عرض سعر",
+          "ماكينة طباعة الحفر PVC وPE وBOPP وCPP وأفلام مرنة وقماش"
+        ],
+        "targetProductPage": "/ar/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "comparison",
+        "seedTitle": "Shaftless gravure printing machine buyer questions",
+        "primaryKeywords": [
+          "ماكينة طباعة الحفر مصنع",
+          "ماكينة طباعة الحفر مورد",
+          "ماكينة طباعة الحفر سعر",
+          "ماكينة طباعة الحفر عرض سعر",
+          "ماكينة طباعة الحفر PVC وPE وBOPP وCPP وأفلام مرنة وقماش"
+        ],
+        "targetProductPage": "/ar/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "technical",
+        "seedTitle": "Ink drying and tension control in film printing lines",
+        "primaryKeywords": [
+          "ماكينة طباعة الحفر مصنع",
+          "ماكينة طباعة الحفر مورد",
+          "ماكينة طباعة الحفر سعر",
+          "ماكينة طباعة الحفر عرض سعر",
+          "ماكينة طباعة الحفر PVC وPE وBOPP وCPP وأفلام مرنة وقماش"
+        ],
+        "targetProductPage": "/ar/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "commercial",
+        "seedTitle": "Automatic calender winder for PVC sheet lines",
+        "primaryKeywords": [
+          "ماكينة لف لخط الكالندر مصنع",
+          "ماكينة لف لخط الكالندر مورد",
+          "ماكينة لف لخط الكالندر سعر",
+          "ماكينة لف لخط الكالندر عرض سعر",
+          "ماكينة لف لخط الكالندر PVC وPE وأفلام شبه صلبة وصلبة"
+        ],
+        "targetProductPage": "/ar/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "specification",
+        "seedTitle": "How to choose winding width and roll diameter",
+        "primaryKeywords": [
+          "ماكينة لف لخط الكالندر مصنع",
+          "ماكينة لف لخط الكالندر مورد",
+          "ماكينة لف لخط الكالندر سعر",
+          "ماكينة لف لخط الكالندر عرض سعر",
+          "ماكينة لف لخط الكالندر PVC وPE وأفلام شبه صلبة وصلبة"
+        ],
+        "targetProductPage": "/ar/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "technical",
+        "seedTitle": "Automatic cutter options for center winding machines",
+        "primaryKeywords": [
+          "ماكينة لف لخط الكالندر مصنع",
+          "ماكينة لف لخط الكالندر مورد",
+          "ماكينة لف لخط الكالندر سعر",
+          "ماكينة لف لخط الكالندر عرض سعر",
+          "ماكينة لف لخط الكالندر PVC وPE وأفلام شبه صلبة وصلبة"
+        ],
+        "targetProductPage": "/ar/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "maintenance",
+        "seedTitle": "PVC PE film rewinding machine maintenance checklist",
+        "primaryKeywords": [
+          "ماكينة لف لخط الكالندر مصنع",
+          "ماكينة لف لخط الكالندر مورد",
+          "ماكينة لف لخط الكالندر سعر",
+          "ماكينة لف لخط الكالندر عرض سعر",
+          "ماكينة لف لخط الكالندر PVC وPE وأفلام شبه صلبة وصلبة"
+        ],
+        "targetProductPage": "/ar/products/calender-winder/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "Furniture film laminating machine for wood grain film",
+        "primaryKeywords": [
+          "ماكينة لصق أفلام الأثاث مصنع",
+          "ماكينة لصق أفلام الأثاث مورد",
+          "ماكينة لصق أفلام الأثاث سعر",
+          "ماكينة لصق أفلام الأثاث عرض سعر",
+          "ماكينة لصق أفلام الأثاث أفلام ديكور PVC وأفلام نقش الخشب وأشرطة الحواف"
+        ],
+        "targetProductPage": "/ar/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "layout",
+        "seedTitle": "PVC decorative film line layout checklist",
+        "primaryKeywords": [
+          "ماكينة لصق أفلام الأثاث مصنع",
+          "ماكينة لصق أفلام الأثاث مورد",
+          "ماكينة لصق أفلام الأثاث سعر",
+          "ماكينة لصق أفلام الأثاث عرض سعر",
+          "ماكينة لصق أفلام الأثاث أفلام ديكور PVC وأفلام نقش الخشب وأشرطة الحواف"
+        ],
+        "targetProductPage": "/ar/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "application",
+        "seedTitle": "Edge banding film laminating and rewinding options",
+        "primaryKeywords": [
+          "ماكينة لصق أفلام الأثاث مصنع",
+          "ماكينة لصق أفلام الأثاث مورد",
+          "ماكينة لصق أفلام الأثاث سعر",
+          "ماكينة لصق أفلام الأثاث عرض سعر",
+          "ماكينة لصق أفلام الأثاث أفلام ديكور PVC وأفلام نقش الخشب وأشرطة الحواف"
+        ],
+        "targetProductPage": "/ar/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Furniture film laminating line quotation factors",
+        "primaryKeywords": [
+          "ماكينة لصق أفلام الأثاث مصنع",
+          "ماكينة لصق أفلام الأثاث مورد",
+          "ماكينة لصق أفلام الأثاث سعر",
+          "ماكينة لصق أفلام الأثاث عرض سعر",
+          "ماكينة لصق أفلام الأثاث أفلام ديكور PVC وأفلام نقش الخشب وأشرطة الحواف"
+        ],
+        "targetProductPage": "/ar/products/furniture-film-laminating-machine/"
+      }
+    ]
+  },
+  {
+    "locale": "fr",
+    "path": "/fr/blog/",
+    "currency": "EUR",
+    "dateExample": "31 mai 2026",
+    "topics": [
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC tarpaulin laminating machine buying guide",
+        "primaryKeywords": [
+          "Machine de laminage pour bâche PVC fabricant",
+          "Machine de laminage pour bâche PVC fournisseur",
+          "Machine de laminage pour bâche PVC prix",
+          "Machine de laminage pour bâche PVC devis",
+          "Machine de laminage pour bâche PVC film PVC, bâche, toile de tente et flex banner"
+        ],
+        "targetProductPage": "/fr/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "specification",
+        "seedTitle": "1600 mm vs 2000 mm PVC tarpaulin laminating line",
+        "primaryKeywords": [
+          "Machine de laminage pour bâche PVC fabricant",
+          "Machine de laminage pour bâche PVC fournisseur",
+          "Machine de laminage pour bâche PVC prix",
+          "Machine de laminage pour bâche PVC devis",
+          "Machine de laminage pour bâche PVC film PVC, bâche, toile de tente et flex banner"
+        ],
+        "targetProductPage": "/fr/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "comparison",
+        "seedTitle": "Hot oil heating or electric heating for PVC laminating",
+        "primaryKeywords": [
+          "Machine de laminage pour bâche PVC fabricant",
+          "Machine de laminage pour bâche PVC fournisseur",
+          "Machine de laminage pour bâche PVC prix",
+          "Machine de laminage pour bâche PVC devis",
+          "Machine de laminage pour bâche PVC film PVC, bâche, toile de tente et flex banner"
+        ],
+        "targetProductPage": "/fr/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Flex banner laminating machine quotation checklist",
+        "primaryKeywords": [
+          "Machine de laminage pour bâche PVC fabricant",
+          "Machine de laminage pour bâche PVC fournisseur",
+          "Machine de laminage pour bâche PVC prix",
+          "Machine de laminage pour bâche PVC devis",
+          "Machine de laminage pour bâche PVC film PVC, bâche, toile de tente et flex banner"
+        ],
+        "targetProductPage": "/fr/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC film gravure printing machine for flexible packaging",
+        "primaryKeywords": [
+          "Machine d'impression héliogravure fabricant",
+          "Machine d'impression héliogravure fournisseur",
+          "Machine d'impression héliogravure prix",
+          "Machine d'impression héliogravure devis",
+          "Machine d'impression héliogravure PVC, PE, BOPP, CPP, film souple et tissu"
+        ],
+        "targetProductPage": "/fr/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "material",
+        "seedTitle": "BOPP CPP PE film gravure printer material guide",
+        "primaryKeywords": [
+          "Machine d'impression héliogravure fabricant",
+          "Machine d'impression héliogravure fournisseur",
+          "Machine d'impression héliogravure prix",
+          "Machine d'impression héliogravure devis",
+          "Machine d'impression héliogravure PVC, PE, BOPP, CPP, film souple et tissu"
+        ],
+        "targetProductPage": "/fr/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "comparison",
+        "seedTitle": "Shaftless gravure printing machine buyer questions",
+        "primaryKeywords": [
+          "Machine d'impression héliogravure fabricant",
+          "Machine d'impression héliogravure fournisseur",
+          "Machine d'impression héliogravure prix",
+          "Machine d'impression héliogravure devis",
+          "Machine d'impression héliogravure PVC, PE, BOPP, CPP, film souple et tissu"
+        ],
+        "targetProductPage": "/fr/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "technical",
+        "seedTitle": "Ink drying and tension control in film printing lines",
+        "primaryKeywords": [
+          "Machine d'impression héliogravure fabricant",
+          "Machine d'impression héliogravure fournisseur",
+          "Machine d'impression héliogravure prix",
+          "Machine d'impression héliogravure devis",
+          "Machine d'impression héliogravure PVC, PE, BOPP, CPP, film souple et tissu"
+        ],
+        "targetProductPage": "/fr/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "commercial",
+        "seedTitle": "Automatic calender winder for PVC sheet lines",
+        "primaryKeywords": [
+          "Enrouleur pour ligne de calandrage fabricant",
+          "Enrouleur pour ligne de calandrage fournisseur",
+          "Enrouleur pour ligne de calandrage prix",
+          "Enrouleur pour ligne de calandrage devis",
+          "Enrouleur pour ligne de calandrage PVC, PE, film semi-rigide et film rigide"
+        ],
+        "targetProductPage": "/fr/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "specification",
+        "seedTitle": "How to choose winding width and roll diameter",
+        "primaryKeywords": [
+          "Enrouleur pour ligne de calandrage fabricant",
+          "Enrouleur pour ligne de calandrage fournisseur",
+          "Enrouleur pour ligne de calandrage prix",
+          "Enrouleur pour ligne de calandrage devis",
+          "Enrouleur pour ligne de calandrage PVC, PE, film semi-rigide et film rigide"
+        ],
+        "targetProductPage": "/fr/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "technical",
+        "seedTitle": "Automatic cutter options for center winding machines",
+        "primaryKeywords": [
+          "Enrouleur pour ligne de calandrage fabricant",
+          "Enrouleur pour ligne de calandrage fournisseur",
+          "Enrouleur pour ligne de calandrage prix",
+          "Enrouleur pour ligne de calandrage devis",
+          "Enrouleur pour ligne de calandrage PVC, PE, film semi-rigide et film rigide"
+        ],
+        "targetProductPage": "/fr/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "maintenance",
+        "seedTitle": "PVC PE film rewinding machine maintenance checklist",
+        "primaryKeywords": [
+          "Enrouleur pour ligne de calandrage fabricant",
+          "Enrouleur pour ligne de calandrage fournisseur",
+          "Enrouleur pour ligne de calandrage prix",
+          "Enrouleur pour ligne de calandrage devis",
+          "Enrouleur pour ligne de calandrage PVC, PE, film semi-rigide et film rigide"
+        ],
+        "targetProductPage": "/fr/products/calender-winder/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "Furniture film laminating machine for wood grain film",
+        "primaryKeywords": [
+          "Ligne de laminage pour film meuble fabricant",
+          "Ligne de laminage pour film meuble fournisseur",
+          "Ligne de laminage pour film meuble prix",
+          "Ligne de laminage pour film meuble devis",
+          "Ligne de laminage pour film meuble film décoratif PVC, film imitation bois et chant"
+        ],
+        "targetProductPage": "/fr/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "layout",
+        "seedTitle": "PVC decorative film line layout checklist",
+        "primaryKeywords": [
+          "Ligne de laminage pour film meuble fabricant",
+          "Ligne de laminage pour film meuble fournisseur",
+          "Ligne de laminage pour film meuble prix",
+          "Ligne de laminage pour film meuble devis",
+          "Ligne de laminage pour film meuble film décoratif PVC, film imitation bois et chant"
+        ],
+        "targetProductPage": "/fr/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "application",
+        "seedTitle": "Edge banding film laminating and rewinding options",
+        "primaryKeywords": [
+          "Ligne de laminage pour film meuble fabricant",
+          "Ligne de laminage pour film meuble fournisseur",
+          "Ligne de laminage pour film meuble prix",
+          "Ligne de laminage pour film meuble devis",
+          "Ligne de laminage pour film meuble film décoratif PVC, film imitation bois et chant"
+        ],
+        "targetProductPage": "/fr/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Furniture film laminating line quotation factors",
+        "primaryKeywords": [
+          "Ligne de laminage pour film meuble fabricant",
+          "Ligne de laminage pour film meuble fournisseur",
+          "Ligne de laminage pour film meuble prix",
+          "Ligne de laminage pour film meuble devis",
+          "Ligne de laminage pour film meuble film décoratif PVC, film imitation bois et chant"
+        ],
+        "targetProductPage": "/fr/products/furniture-film-laminating-machine/"
+      }
+    ]
+  },
+  {
+    "locale": "ru",
+    "path": "/ru/blog/",
+    "currency": "USD/EUR",
+    "dateExample": "31 мая 2026 г.",
+    "topics": [
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC tarpaulin laminating machine buying guide",
+        "primaryKeywords": [
+          "Ламинатор для ПВХ-тента производитель",
+          "Ламинатор для ПВХ-тента поставщик",
+          "Ламинатор для ПВХ-тента цена",
+          "Ламинатор для ПВХ-тента предложение",
+          "Ламинатор для ПВХ-тента ПВХ-пленка, тент, палаточная ткань и баннерный материал"
+        ],
+        "targetProductPage": "/ru/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "specification",
+        "seedTitle": "1600 mm vs 2000 mm PVC tarpaulin laminating line",
+        "primaryKeywords": [
+          "Ламинатор для ПВХ-тента производитель",
+          "Ламинатор для ПВХ-тента поставщик",
+          "Ламинатор для ПВХ-тента цена",
+          "Ламинатор для ПВХ-тента предложение",
+          "Ламинатор для ПВХ-тента ПВХ-пленка, тент, палаточная ткань и баннерный материал"
+        ],
+        "targetProductPage": "/ru/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "comparison",
+        "seedTitle": "Hot oil heating or electric heating for PVC laminating",
+        "primaryKeywords": [
+          "Ламинатор для ПВХ-тента производитель",
+          "Ламинатор для ПВХ-тента поставщик",
+          "Ламинатор для ПВХ-тента цена",
+          "Ламинатор для ПВХ-тента предложение",
+          "Ламинатор для ПВХ-тента ПВХ-пленка, тент, палаточная ткань и баннерный материал"
+        ],
+        "targetProductPage": "/ru/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Flex banner laminating machine quotation checklist",
+        "primaryKeywords": [
+          "Ламинатор для ПВХ-тента производитель",
+          "Ламинатор для ПВХ-тента поставщик",
+          "Ламинатор для ПВХ-тента цена",
+          "Ламинатор для ПВХ-тента предложение",
+          "Ламинатор для ПВХ-тента ПВХ-пленка, тент, палаточная ткань и баннерный материал"
+        ],
+        "targetProductPage": "/ru/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC film gravure printing machine for flexible packaging",
+        "primaryKeywords": [
+          "Ротогравюрная печатная машина производитель",
+          "Ротогравюрная печатная машина поставщик",
+          "Ротогравюрная печатная машина цена",
+          "Ротогравюрная печатная машина предложение",
+          "Ротогравюрная печатная машина PVC, PE, BOPP, CPP, гибкая пленка и ткань"
+        ],
+        "targetProductPage": "/ru/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "material",
+        "seedTitle": "BOPP CPP PE film gravure printer material guide",
+        "primaryKeywords": [
+          "Ротогравюрная печатная машина производитель",
+          "Ротогравюрная печатная машина поставщик",
+          "Ротогравюрная печатная машина цена",
+          "Ротогравюрная печатная машина предложение",
+          "Ротогравюрная печатная машина PVC, PE, BOPP, CPP, гибкая пленка и ткань"
+        ],
+        "targetProductPage": "/ru/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "comparison",
+        "seedTitle": "Shaftless gravure printing machine buyer questions",
+        "primaryKeywords": [
+          "Ротогравюрная печатная машина производитель",
+          "Ротогравюрная печатная машина поставщик",
+          "Ротогравюрная печатная машина цена",
+          "Ротогравюрная печатная машина предложение",
+          "Ротогравюрная печатная машина PVC, PE, BOPP, CPP, гибкая пленка и ткань"
+        ],
+        "targetProductPage": "/ru/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "technical",
+        "seedTitle": "Ink drying and tension control in film printing lines",
+        "primaryKeywords": [
+          "Ротогравюрная печатная машина производитель",
+          "Ротогравюрная печатная машина поставщик",
+          "Ротогравюрная печатная машина цена",
+          "Ротогравюрная печатная машина предложение",
+          "Ротогравюрная печатная машина PVC, PE, BOPP, CPP, гибкая пленка и ткань"
+        ],
+        "targetProductPage": "/ru/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "commercial",
+        "seedTitle": "Automatic calender winder for PVC sheet lines",
+        "primaryKeywords": [
+          "Намотчик для каландровой линии производитель",
+          "Намотчик для каландровой линии поставщик",
+          "Намотчик для каландровой линии цена",
+          "Намотчик для каландровой линии предложение",
+          "Намотчик для каландровой линии PVC, PE, полужесткая и жесткая пленка"
+        ],
+        "targetProductPage": "/ru/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "specification",
+        "seedTitle": "How to choose winding width and roll diameter",
+        "primaryKeywords": [
+          "Намотчик для каландровой линии производитель",
+          "Намотчик для каландровой линии поставщик",
+          "Намотчик для каландровой линии цена",
+          "Намотчик для каландровой линии предложение",
+          "Намотчик для каландровой линии PVC, PE, полужесткая и жесткая пленка"
+        ],
+        "targetProductPage": "/ru/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "technical",
+        "seedTitle": "Automatic cutter options for center winding machines",
+        "primaryKeywords": [
+          "Намотчик для каландровой линии производитель",
+          "Намотчик для каландровой линии поставщик",
+          "Намотчик для каландровой линии цена",
+          "Намотчик для каландровой линии предложение",
+          "Намотчик для каландровой линии PVC, PE, полужесткая и жесткая пленка"
+        ],
+        "targetProductPage": "/ru/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "maintenance",
+        "seedTitle": "PVC PE film rewinding machine maintenance checklist",
+        "primaryKeywords": [
+          "Намотчик для каландровой линии производитель",
+          "Намотчик для каландровой линии поставщик",
+          "Намотчик для каландровой линии цена",
+          "Намотчик для каландровой линии предложение",
+          "Намотчик для каландровой линии PVC, PE, полужесткая и жесткая пленка"
+        ],
+        "targetProductPage": "/ru/products/calender-winder/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "Furniture film laminating machine for wood grain film",
+        "primaryKeywords": [
+          "Линия ламинации мебельной пленки производитель",
+          "Линия ламинации мебельной пленки поставщик",
+          "Линия ламинации мебельной пленки цена",
+          "Линия ламинации мебельной пленки предложение",
+          "Линия ламинации мебельной пленки ПВХ-декор пленка, пленка под дерево и кромочная лента"
+        ],
+        "targetProductPage": "/ru/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "layout",
+        "seedTitle": "PVC decorative film line layout checklist",
+        "primaryKeywords": [
+          "Линия ламинации мебельной пленки производитель",
+          "Линия ламинации мебельной пленки поставщик",
+          "Линия ламинации мебельной пленки цена",
+          "Линия ламинации мебельной пленки предложение",
+          "Линия ламинации мебельной пленки ПВХ-декор пленка, пленка под дерево и кромочная лента"
+        ],
+        "targetProductPage": "/ru/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "application",
+        "seedTitle": "Edge banding film laminating and rewinding options",
+        "primaryKeywords": [
+          "Линия ламинации мебельной пленки производитель",
+          "Линия ламинации мебельной пленки поставщик",
+          "Линия ламинации мебельной пленки цена",
+          "Линия ламинации мебельной пленки предложение",
+          "Линия ламинации мебельной пленки ПВХ-декор пленка, пленка под дерево и кромочная лента"
+        ],
+        "targetProductPage": "/ru/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Furniture film laminating line quotation factors",
+        "primaryKeywords": [
+          "Линия ламинации мебельной пленки производитель",
+          "Линия ламинации мебельной пленки поставщик",
+          "Линия ламинации мебельной пленки цена",
+          "Линия ламинации мебельной пленки предложение",
+          "Линия ламинации мебельной пленки ПВХ-декор пленка, пленка под дерево и кромочная лента"
+        ],
+        "targetProductPage": "/ru/products/furniture-film-laminating-machine/"
+      }
+    ]
+  },
+  {
+    "locale": "pt",
+    "path": "/pt/blog/",
+    "currency": "USD/EUR/BRL",
+    "dateExample": "31 de maio de 2026",
+    "topics": [
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC tarpaulin laminating machine buying guide",
+        "primaryKeywords": [
+          "Laminadora para lona PVC fabricante",
+          "Laminadora para lona PVC fornecedor",
+          "Laminadora para lona PVC preço",
+          "Laminadora para lona PVC cotação",
+          "Laminadora para lona PVC filme PVC, lona, tecido para tendas e flex banner"
+        ],
+        "targetProductPage": "/pt/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "specification",
+        "seedTitle": "1600 mm vs 2000 mm PVC tarpaulin laminating line",
+        "primaryKeywords": [
+          "Laminadora para lona PVC fabricante",
+          "Laminadora para lona PVC fornecedor",
+          "Laminadora para lona PVC preço",
+          "Laminadora para lona PVC cotação",
+          "Laminadora para lona PVC filme PVC, lona, tecido para tendas e flex banner"
+        ],
+        "targetProductPage": "/pt/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "comparison",
+        "seedTitle": "Hot oil heating or electric heating for PVC laminating",
+        "primaryKeywords": [
+          "Laminadora para lona PVC fabricante",
+          "Laminadora para lona PVC fornecedor",
+          "Laminadora para lona PVC preço",
+          "Laminadora para lona PVC cotação",
+          "Laminadora para lona PVC filme PVC, lona, tecido para tendas e flex banner"
+        ],
+        "targetProductPage": "/pt/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Flex banner laminating machine quotation checklist",
+        "primaryKeywords": [
+          "Laminadora para lona PVC fabricante",
+          "Laminadora para lona PVC fornecedor",
+          "Laminadora para lona PVC preço",
+          "Laminadora para lona PVC cotação",
+          "Laminadora para lona PVC filme PVC, lona, tecido para tendas e flex banner"
+        ],
+        "targetProductPage": "/pt/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC film gravure printing machine for flexible packaging",
+        "primaryKeywords": [
+          "Máquina de rotogravura fabricante",
+          "Máquina de rotogravura fornecedor",
+          "Máquina de rotogravura preço",
+          "Máquina de rotogravura cotação",
+          "Máquina de rotogravura PVC, PE, BOPP, CPP, filme flexível e tecido"
+        ],
+        "targetProductPage": "/pt/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "material",
+        "seedTitle": "BOPP CPP PE film gravure printer material guide",
+        "primaryKeywords": [
+          "Máquina de rotogravura fabricante",
+          "Máquina de rotogravura fornecedor",
+          "Máquina de rotogravura preço",
+          "Máquina de rotogravura cotação",
+          "Máquina de rotogravura PVC, PE, BOPP, CPP, filme flexível e tecido"
+        ],
+        "targetProductPage": "/pt/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "comparison",
+        "seedTitle": "Shaftless gravure printing machine buyer questions",
+        "primaryKeywords": [
+          "Máquina de rotogravura fabricante",
+          "Máquina de rotogravura fornecedor",
+          "Máquina de rotogravura preço",
+          "Máquina de rotogravura cotação",
+          "Máquina de rotogravura PVC, PE, BOPP, CPP, filme flexível e tecido"
+        ],
+        "targetProductPage": "/pt/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "technical",
+        "seedTitle": "Ink drying and tension control in film printing lines",
+        "primaryKeywords": [
+          "Máquina de rotogravura fabricante",
+          "Máquina de rotogravura fornecedor",
+          "Máquina de rotogravura preço",
+          "Máquina de rotogravura cotação",
+          "Máquina de rotogravura PVC, PE, BOPP, CPP, filme flexível e tecido"
+        ],
+        "targetProductPage": "/pt/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "commercial",
+        "seedTitle": "Automatic calender winder for PVC sheet lines",
+        "primaryKeywords": [
+          "Bobinador para linha de calandra fabricante",
+          "Bobinador para linha de calandra fornecedor",
+          "Bobinador para linha de calandra preço",
+          "Bobinador para linha de calandra cotação",
+          "Bobinador para linha de calandra PVC, PE, filme semirrígido e filme rígido"
+        ],
+        "targetProductPage": "/pt/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "specification",
+        "seedTitle": "How to choose winding width and roll diameter",
+        "primaryKeywords": [
+          "Bobinador para linha de calandra fabricante",
+          "Bobinador para linha de calandra fornecedor",
+          "Bobinador para linha de calandra preço",
+          "Bobinador para linha de calandra cotação",
+          "Bobinador para linha de calandra PVC, PE, filme semirrígido e filme rígido"
+        ],
+        "targetProductPage": "/pt/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "technical",
+        "seedTitle": "Automatic cutter options for center winding machines",
+        "primaryKeywords": [
+          "Bobinador para linha de calandra fabricante",
+          "Bobinador para linha de calandra fornecedor",
+          "Bobinador para linha de calandra preço",
+          "Bobinador para linha de calandra cotação",
+          "Bobinador para linha de calandra PVC, PE, filme semirrígido e filme rígido"
+        ],
+        "targetProductPage": "/pt/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "maintenance",
+        "seedTitle": "PVC PE film rewinding machine maintenance checklist",
+        "primaryKeywords": [
+          "Bobinador para linha de calandra fabricante",
+          "Bobinador para linha de calandra fornecedor",
+          "Bobinador para linha de calandra preço",
+          "Bobinador para linha de calandra cotação",
+          "Bobinador para linha de calandra PVC, PE, filme semirrígido e filme rígido"
+        ],
+        "targetProductPage": "/pt/products/calender-winder/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "Furniture film laminating machine for wood grain film",
+        "primaryKeywords": [
+          "Laminadora de filme para móveis fabricante",
+          "Laminadora de filme para móveis fornecedor",
+          "Laminadora de filme para móveis preço",
+          "Laminadora de filme para móveis cotação",
+          "Laminadora de filme para móveis filme decorativo PVC, filme amadeirado e fita de borda"
+        ],
+        "targetProductPage": "/pt/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "layout",
+        "seedTitle": "PVC decorative film line layout checklist",
+        "primaryKeywords": [
+          "Laminadora de filme para móveis fabricante",
+          "Laminadora de filme para móveis fornecedor",
+          "Laminadora de filme para móveis preço",
+          "Laminadora de filme para móveis cotação",
+          "Laminadora de filme para móveis filme decorativo PVC, filme amadeirado e fita de borda"
+        ],
+        "targetProductPage": "/pt/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "application",
+        "seedTitle": "Edge banding film laminating and rewinding options",
+        "primaryKeywords": [
+          "Laminadora de filme para móveis fabricante",
+          "Laminadora de filme para móveis fornecedor",
+          "Laminadora de filme para móveis preço",
+          "Laminadora de filme para móveis cotação",
+          "Laminadora de filme para móveis filme decorativo PVC, filme amadeirado e fita de borda"
+        ],
+        "targetProductPage": "/pt/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Furniture film laminating line quotation factors",
+        "primaryKeywords": [
+          "Laminadora de filme para móveis fabricante",
+          "Laminadora de filme para móveis fornecedor",
+          "Laminadora de filme para móveis preço",
+          "Laminadora de filme para móveis cotação",
+          "Laminadora de filme para móveis filme decorativo PVC, filme amadeirado e fita de borda"
+        ],
+        "targetProductPage": "/pt/products/furniture-film-laminating-machine/"
+      }
+    ]
+  },
+  {
+    "locale": "de",
+    "path": "/de/blog/",
+    "currency": "EUR",
+    "dateExample": "31. Mai 2026",
+    "topics": [
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC tarpaulin laminating machine buying guide",
+        "primaryKeywords": [
+          "PVC-Planen-Kaschiermaschine Hersteller",
+          "PVC-Planen-Kaschiermaschine Lieferant",
+          "PVC-Planen-Kaschiermaschine Preis",
+          "PVC-Planen-Kaschiermaschine Angebot",
+          "PVC-Planen-Kaschiermaschine PVC-Folie, Plane, Zeltgewebe und Flexbanner"
+        ],
+        "targetProductPage": "/de/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "specification",
+        "seedTitle": "1600 mm vs 2000 mm PVC tarpaulin laminating line",
+        "primaryKeywords": [
+          "PVC-Planen-Kaschiermaschine Hersteller",
+          "PVC-Planen-Kaschiermaschine Lieferant",
+          "PVC-Planen-Kaschiermaschine Preis",
+          "PVC-Planen-Kaschiermaschine Angebot",
+          "PVC-Planen-Kaschiermaschine PVC-Folie, Plane, Zeltgewebe und Flexbanner"
+        ],
+        "targetProductPage": "/de/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "comparison",
+        "seedTitle": "Hot oil heating or electric heating for PVC laminating",
+        "primaryKeywords": [
+          "PVC-Planen-Kaschiermaschine Hersteller",
+          "PVC-Planen-Kaschiermaschine Lieferant",
+          "PVC-Planen-Kaschiermaschine Preis",
+          "PVC-Planen-Kaschiermaschine Angebot",
+          "PVC-Planen-Kaschiermaschine PVC-Folie, Plane, Zeltgewebe und Flexbanner"
+        ],
+        "targetProductPage": "/de/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Flex banner laminating machine quotation checklist",
+        "primaryKeywords": [
+          "PVC-Planen-Kaschiermaschine Hersteller",
+          "PVC-Planen-Kaschiermaschine Lieferant",
+          "PVC-Planen-Kaschiermaschine Preis",
+          "PVC-Planen-Kaschiermaschine Angebot",
+          "PVC-Planen-Kaschiermaschine PVC-Folie, Plane, Zeltgewebe und Flexbanner"
+        ],
+        "targetProductPage": "/de/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC film gravure printing machine for flexible packaging",
+        "primaryKeywords": [
+          "Tiefdruckmaschine Hersteller",
+          "Tiefdruckmaschine Lieferant",
+          "Tiefdruckmaschine Preis",
+          "Tiefdruckmaschine Angebot",
+          "Tiefdruckmaschine PVC, PE, BOPP, CPP, flexible Folie und Gewebe"
+        ],
+        "targetProductPage": "/de/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "material",
+        "seedTitle": "BOPP CPP PE film gravure printer material guide",
+        "primaryKeywords": [
+          "Tiefdruckmaschine Hersteller",
+          "Tiefdruckmaschine Lieferant",
+          "Tiefdruckmaschine Preis",
+          "Tiefdruckmaschine Angebot",
+          "Tiefdruckmaschine PVC, PE, BOPP, CPP, flexible Folie und Gewebe"
+        ],
+        "targetProductPage": "/de/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "comparison",
+        "seedTitle": "Shaftless gravure printing machine buyer questions",
+        "primaryKeywords": [
+          "Tiefdruckmaschine Hersteller",
+          "Tiefdruckmaschine Lieferant",
+          "Tiefdruckmaschine Preis",
+          "Tiefdruckmaschine Angebot",
+          "Tiefdruckmaschine PVC, PE, BOPP, CPP, flexible Folie und Gewebe"
+        ],
+        "targetProductPage": "/de/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "technical",
+        "seedTitle": "Ink drying and tension control in film printing lines",
+        "primaryKeywords": [
+          "Tiefdruckmaschine Hersteller",
+          "Tiefdruckmaschine Lieferant",
+          "Tiefdruckmaschine Preis",
+          "Tiefdruckmaschine Angebot",
+          "Tiefdruckmaschine PVC, PE, BOPP, CPP, flexible Folie und Gewebe"
+        ],
+        "targetProductPage": "/de/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "commercial",
+        "seedTitle": "Automatic calender winder for PVC sheet lines",
+        "primaryKeywords": [
+          "Wickler für Kalanderlinien Hersteller",
+          "Wickler für Kalanderlinien Lieferant",
+          "Wickler für Kalanderlinien Preis",
+          "Wickler für Kalanderlinien Angebot",
+          "Wickler für Kalanderlinien PVC, PE, halbstarre Folie und starre Folie"
+        ],
+        "targetProductPage": "/de/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "specification",
+        "seedTitle": "How to choose winding width and roll diameter",
+        "primaryKeywords": [
+          "Wickler für Kalanderlinien Hersteller",
+          "Wickler für Kalanderlinien Lieferant",
+          "Wickler für Kalanderlinien Preis",
+          "Wickler für Kalanderlinien Angebot",
+          "Wickler für Kalanderlinien PVC, PE, halbstarre Folie und starre Folie"
+        ],
+        "targetProductPage": "/de/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "technical",
+        "seedTitle": "Automatic cutter options for center winding machines",
+        "primaryKeywords": [
+          "Wickler für Kalanderlinien Hersteller",
+          "Wickler für Kalanderlinien Lieferant",
+          "Wickler für Kalanderlinien Preis",
+          "Wickler für Kalanderlinien Angebot",
+          "Wickler für Kalanderlinien PVC, PE, halbstarre Folie und starre Folie"
+        ],
+        "targetProductPage": "/de/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "maintenance",
+        "seedTitle": "PVC PE film rewinding machine maintenance checklist",
+        "primaryKeywords": [
+          "Wickler für Kalanderlinien Hersteller",
+          "Wickler für Kalanderlinien Lieferant",
+          "Wickler für Kalanderlinien Preis",
+          "Wickler für Kalanderlinien Angebot",
+          "Wickler für Kalanderlinien PVC, PE, halbstarre Folie und starre Folie"
+        ],
+        "targetProductPage": "/de/products/calender-winder/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "Furniture film laminating machine for wood grain film",
+        "primaryKeywords": [
+          "Kaschieranlage für Möbelfolie Hersteller",
+          "Kaschieranlage für Möbelfolie Lieferant",
+          "Kaschieranlage für Möbelfolie Preis",
+          "Kaschieranlage für Möbelfolie Angebot",
+          "Kaschieranlage für Möbelfolie PVC-Dekorfolie, Holzdekorfolie und Kantenbandfolie"
+        ],
+        "targetProductPage": "/de/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "layout",
+        "seedTitle": "PVC decorative film line layout checklist",
+        "primaryKeywords": [
+          "Kaschieranlage für Möbelfolie Hersteller",
+          "Kaschieranlage für Möbelfolie Lieferant",
+          "Kaschieranlage für Möbelfolie Preis",
+          "Kaschieranlage für Möbelfolie Angebot",
+          "Kaschieranlage für Möbelfolie PVC-Dekorfolie, Holzdekorfolie und Kantenbandfolie"
+        ],
+        "targetProductPage": "/de/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "application",
+        "seedTitle": "Edge banding film laminating and rewinding options",
+        "primaryKeywords": [
+          "Kaschieranlage für Möbelfolie Hersteller",
+          "Kaschieranlage für Möbelfolie Lieferant",
+          "Kaschieranlage für Möbelfolie Preis",
+          "Kaschieranlage für Möbelfolie Angebot",
+          "Kaschieranlage für Möbelfolie PVC-Dekorfolie, Holzdekorfolie und Kantenbandfolie"
+        ],
+        "targetProductPage": "/de/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Furniture film laminating line quotation factors",
+        "primaryKeywords": [
+          "Kaschieranlage für Möbelfolie Hersteller",
+          "Kaschieranlage für Möbelfolie Lieferant",
+          "Kaschieranlage für Möbelfolie Preis",
+          "Kaschieranlage für Möbelfolie Angebot",
+          "Kaschieranlage für Möbelfolie PVC-Dekorfolie, Holzdekorfolie und Kantenbandfolie"
+        ],
+        "targetProductPage": "/de/products/furniture-film-laminating-machine/"
+      }
+    ]
+  },
+  {
+    "locale": "vi",
+    "path": "/vi/blog/",
+    "currency": "USD/VND",
+    "dateExample": "31/05/2026",
+    "topics": [
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC tarpaulin laminating machine buying guide",
+        "primaryKeywords": [
+          "Máy ghép bạt PVC nhà sản xuất",
+          "Máy ghép bạt PVC nhà cung cấp",
+          "Máy ghép bạt PVC giá",
+          "Máy ghép bạt PVC báo giá",
+          "Máy ghép bạt PVC màng PVC, bạt, vải lều và flex banner"
+        ],
+        "targetProductPage": "/vi/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "specification",
+        "seedTitle": "1600 mm vs 2000 mm PVC tarpaulin laminating line",
+        "primaryKeywords": [
+          "Máy ghép bạt PVC nhà sản xuất",
+          "Máy ghép bạt PVC nhà cung cấp",
+          "Máy ghép bạt PVC giá",
+          "Máy ghép bạt PVC báo giá",
+          "Máy ghép bạt PVC màng PVC, bạt, vải lều và flex banner"
+        ],
+        "targetProductPage": "/vi/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "comparison",
+        "seedTitle": "Hot oil heating or electric heating for PVC laminating",
+        "primaryKeywords": [
+          "Máy ghép bạt PVC nhà sản xuất",
+          "Máy ghép bạt PVC nhà cung cấp",
+          "Máy ghép bạt PVC giá",
+          "Máy ghép bạt PVC báo giá",
+          "Máy ghép bạt PVC màng PVC, bạt, vải lều và flex banner"
+        ],
+        "targetProductPage": "/vi/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Flex banner laminating machine quotation checklist",
+        "primaryKeywords": [
+          "Máy ghép bạt PVC nhà sản xuất",
+          "Máy ghép bạt PVC nhà cung cấp",
+          "Máy ghép bạt PVC giá",
+          "Máy ghép bạt PVC báo giá",
+          "Máy ghép bạt PVC màng PVC, bạt, vải lều và flex banner"
+        ],
+        "targetProductPage": "/vi/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC film gravure printing machine for flexible packaging",
+        "primaryKeywords": [
+          "Máy in ống đồng nhà sản xuất",
+          "Máy in ống đồng nhà cung cấp",
+          "Máy in ống đồng giá",
+          "Máy in ống đồng báo giá",
+          "Máy in ống đồng PVC, PE, BOPP, CPP, màng mềm và vải"
+        ],
+        "targetProductPage": "/vi/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "material",
+        "seedTitle": "BOPP CPP PE film gravure printer material guide",
+        "primaryKeywords": [
+          "Máy in ống đồng nhà sản xuất",
+          "Máy in ống đồng nhà cung cấp",
+          "Máy in ống đồng giá",
+          "Máy in ống đồng báo giá",
+          "Máy in ống đồng PVC, PE, BOPP, CPP, màng mềm và vải"
+        ],
+        "targetProductPage": "/vi/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "comparison",
+        "seedTitle": "Shaftless gravure printing machine buyer questions",
+        "primaryKeywords": [
+          "Máy in ống đồng nhà sản xuất",
+          "Máy in ống đồng nhà cung cấp",
+          "Máy in ống đồng giá",
+          "Máy in ống đồng báo giá",
+          "Máy in ống đồng PVC, PE, BOPP, CPP, màng mềm và vải"
+        ],
+        "targetProductPage": "/vi/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "technical",
+        "seedTitle": "Ink drying and tension control in film printing lines",
+        "primaryKeywords": [
+          "Máy in ống đồng nhà sản xuất",
+          "Máy in ống đồng nhà cung cấp",
+          "Máy in ống đồng giá",
+          "Máy in ống đồng báo giá",
+          "Máy in ống đồng PVC, PE, BOPP, CPP, màng mềm và vải"
+        ],
+        "targetProductPage": "/vi/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "commercial",
+        "seedTitle": "Automatic calender winder for PVC sheet lines",
+        "primaryKeywords": [
+          "Máy cuộn cho dây chuyền cán nhà sản xuất",
+          "Máy cuộn cho dây chuyền cán nhà cung cấp",
+          "Máy cuộn cho dây chuyền cán giá",
+          "Máy cuộn cho dây chuyền cán báo giá",
+          "Máy cuộn cho dây chuyền cán PVC, PE, màng bán cứng và màng cứng"
+        ],
+        "targetProductPage": "/vi/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "specification",
+        "seedTitle": "How to choose winding width and roll diameter",
+        "primaryKeywords": [
+          "Máy cuộn cho dây chuyền cán nhà sản xuất",
+          "Máy cuộn cho dây chuyền cán nhà cung cấp",
+          "Máy cuộn cho dây chuyền cán giá",
+          "Máy cuộn cho dây chuyền cán báo giá",
+          "Máy cuộn cho dây chuyền cán PVC, PE, màng bán cứng và màng cứng"
+        ],
+        "targetProductPage": "/vi/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "technical",
+        "seedTitle": "Automatic cutter options for center winding machines",
+        "primaryKeywords": [
+          "Máy cuộn cho dây chuyền cán nhà sản xuất",
+          "Máy cuộn cho dây chuyền cán nhà cung cấp",
+          "Máy cuộn cho dây chuyền cán giá",
+          "Máy cuộn cho dây chuyền cán báo giá",
+          "Máy cuộn cho dây chuyền cán PVC, PE, màng bán cứng và màng cứng"
+        ],
+        "targetProductPage": "/vi/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "maintenance",
+        "seedTitle": "PVC PE film rewinding machine maintenance checklist",
+        "primaryKeywords": [
+          "Máy cuộn cho dây chuyền cán nhà sản xuất",
+          "Máy cuộn cho dây chuyền cán nhà cung cấp",
+          "Máy cuộn cho dây chuyền cán giá",
+          "Máy cuộn cho dây chuyền cán báo giá",
+          "Máy cuộn cho dây chuyền cán PVC, PE, màng bán cứng và màng cứng"
+        ],
+        "targetProductPage": "/vi/products/calender-winder/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "Furniture film laminating machine for wood grain film",
+        "primaryKeywords": [
+          "Máy ghép màng trang trí nội thất nhà sản xuất",
+          "Máy ghép màng trang trí nội thất nhà cung cấp",
+          "Máy ghép màng trang trí nội thất giá",
+          "Máy ghép màng trang trí nội thất báo giá",
+          "Máy ghép màng trang trí nội thất màng trang trí PVC, màng vân gỗ và màng nẹp cạnh"
+        ],
+        "targetProductPage": "/vi/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "layout",
+        "seedTitle": "PVC decorative film line layout checklist",
+        "primaryKeywords": [
+          "Máy ghép màng trang trí nội thất nhà sản xuất",
+          "Máy ghép màng trang trí nội thất nhà cung cấp",
+          "Máy ghép màng trang trí nội thất giá",
+          "Máy ghép màng trang trí nội thất báo giá",
+          "Máy ghép màng trang trí nội thất màng trang trí PVC, màng vân gỗ và màng nẹp cạnh"
+        ],
+        "targetProductPage": "/vi/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "application",
+        "seedTitle": "Edge banding film laminating and rewinding options",
+        "primaryKeywords": [
+          "Máy ghép màng trang trí nội thất nhà sản xuất",
+          "Máy ghép màng trang trí nội thất nhà cung cấp",
+          "Máy ghép màng trang trí nội thất giá",
+          "Máy ghép màng trang trí nội thất báo giá",
+          "Máy ghép màng trang trí nội thất màng trang trí PVC, màng vân gỗ và màng nẹp cạnh"
+        ],
+        "targetProductPage": "/vi/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Furniture film laminating line quotation factors",
+        "primaryKeywords": [
+          "Máy ghép màng trang trí nội thất nhà sản xuất",
+          "Máy ghép màng trang trí nội thất nhà cung cấp",
+          "Máy ghép màng trang trí nội thất giá",
+          "Máy ghép màng trang trí nội thất báo giá",
+          "Máy ghép màng trang trí nội thất màng trang trí PVC, màng vân gỗ và màng nẹp cạnh"
+        ],
+        "targetProductPage": "/vi/products/furniture-film-laminating-machine/"
+      }
+    ]
+  },
+  {
+    "locale": "ja",
+    "path": "/ja/blog/",
+    "currency": "JPY/USD",
+    "dateExample": "2026年5月31日",
+    "topics": [
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC tarpaulin laminating machine buying guide",
+        "primaryKeywords": [
+          "PVCターポリンラミネート機 メーカー",
+          "PVCターポリンラミネート機 サプライヤー",
+          "PVCターポリンラミネート機 価格",
+          "PVCターポリンラミネート機 見積",
+          "PVCターポリンラミネート機 PVCフィルム、ターポリン、テント生地、フレックスバナー"
+        ],
+        "targetProductPage": "/ja/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "specification",
+        "seedTitle": "1600 mm vs 2000 mm PVC tarpaulin laminating line",
+        "primaryKeywords": [
+          "PVCターポリンラミネート機 メーカー",
+          "PVCターポリンラミネート機 サプライヤー",
+          "PVCターポリンラミネート機 価格",
+          "PVCターポリンラミネート機 見積",
+          "PVCターポリンラミネート機 PVCフィルム、ターポリン、テント生地、フレックスバナー"
+        ],
+        "targetProductPage": "/ja/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "comparison",
+        "seedTitle": "Hot oil heating or electric heating for PVC laminating",
+        "primaryKeywords": [
+          "PVCターポリンラミネート機 メーカー",
+          "PVCターポリンラミネート機 サプライヤー",
+          "PVCターポリンラミネート機 価格",
+          "PVCターポリンラミネート機 見積",
+          "PVCターポリンラミネート機 PVCフィルム、ターポリン、テント生地、フレックスバナー"
+        ],
+        "targetProductPage": "/ja/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Flex banner laminating machine quotation checklist",
+        "primaryKeywords": [
+          "PVCターポリンラミネート機 メーカー",
+          "PVCターポリンラミネート機 サプライヤー",
+          "PVCターポリンラミネート機 価格",
+          "PVCターポリンラミネート機 見積",
+          "PVCターポリンラミネート機 PVCフィルム、ターポリン、テント生地、フレックスバナー"
+        ],
+        "targetProductPage": "/ja/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC film gravure printing machine for flexible packaging",
+        "primaryKeywords": [
+          "グラビア印刷機 メーカー",
+          "グラビア印刷機 サプライヤー",
+          "グラビア印刷機 価格",
+          "グラビア印刷機 見積",
+          "グラビア印刷機 PVC、PE、BOPP、CPP、軟包装フィルム、布材"
+        ],
+        "targetProductPage": "/ja/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "material",
+        "seedTitle": "BOPP CPP PE film gravure printer material guide",
+        "primaryKeywords": [
+          "グラビア印刷機 メーカー",
+          "グラビア印刷機 サプライヤー",
+          "グラビア印刷機 価格",
+          "グラビア印刷機 見積",
+          "グラビア印刷機 PVC、PE、BOPP、CPP、軟包装フィルム、布材"
+        ],
+        "targetProductPage": "/ja/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "comparison",
+        "seedTitle": "Shaftless gravure printing machine buyer questions",
+        "primaryKeywords": [
+          "グラビア印刷機 メーカー",
+          "グラビア印刷機 サプライヤー",
+          "グラビア印刷機 価格",
+          "グラビア印刷機 見積",
+          "グラビア印刷機 PVC、PE、BOPP、CPP、軟包装フィルム、布材"
+        ],
+        "targetProductPage": "/ja/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "technical",
+        "seedTitle": "Ink drying and tension control in film printing lines",
+        "primaryKeywords": [
+          "グラビア印刷機 メーカー",
+          "グラビア印刷機 サプライヤー",
+          "グラビア印刷機 価格",
+          "グラビア印刷機 見積",
+          "グラビア印刷機 PVC、PE、BOPP、CPP、軟包装フィルム、布材"
+        ],
+        "targetProductPage": "/ja/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "commercial",
+        "seedTitle": "Automatic calender winder for PVC sheet lines",
+        "primaryKeywords": [
+          "カレンダーライン用巻取機 メーカー",
+          "カレンダーライン用巻取機 サプライヤー",
+          "カレンダーライン用巻取機 価格",
+          "カレンダーライン用巻取機 見積",
+          "カレンダーライン用巻取機 PVC、PE、半硬質フィルム、硬質フィルム"
+        ],
+        "targetProductPage": "/ja/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "specification",
+        "seedTitle": "How to choose winding width and roll diameter",
+        "primaryKeywords": [
+          "カレンダーライン用巻取機 メーカー",
+          "カレンダーライン用巻取機 サプライヤー",
+          "カレンダーライン用巻取機 価格",
+          "カレンダーライン用巻取機 見積",
+          "カレンダーライン用巻取機 PVC、PE、半硬質フィルム、硬質フィルム"
+        ],
+        "targetProductPage": "/ja/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "technical",
+        "seedTitle": "Automatic cutter options for center winding machines",
+        "primaryKeywords": [
+          "カレンダーライン用巻取機 メーカー",
+          "カレンダーライン用巻取機 サプライヤー",
+          "カレンダーライン用巻取機 価格",
+          "カレンダーライン用巻取機 見積",
+          "カレンダーライン用巻取機 PVC、PE、半硬質フィルム、硬質フィルム"
+        ],
+        "targetProductPage": "/ja/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "maintenance",
+        "seedTitle": "PVC PE film rewinding machine maintenance checklist",
+        "primaryKeywords": [
+          "カレンダーライン用巻取機 メーカー",
+          "カレンダーライン用巻取機 サプライヤー",
+          "カレンダーライン用巻取機 価格",
+          "カレンダーライン用巻取機 見積",
+          "カレンダーライン用巻取機 PVC、PE、半硬質フィルム、硬質フィルム"
+        ],
+        "targetProductPage": "/ja/products/calender-winder/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "Furniture film laminating machine for wood grain film",
+        "primaryKeywords": [
+          "家具用化粧フィルムラミネート機 メーカー",
+          "家具用化粧フィルムラミネート機 サプライヤー",
+          "家具用化粧フィルムラミネート機 価格",
+          "家具用化粧フィルムラミネート機 見積",
+          "家具用化粧フィルムラミネート機 PVC化粧フィルム、木目フィルム、エッジ材フィルム"
+        ],
+        "targetProductPage": "/ja/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "layout",
+        "seedTitle": "PVC decorative film line layout checklist",
+        "primaryKeywords": [
+          "家具用化粧フィルムラミネート機 メーカー",
+          "家具用化粧フィルムラミネート機 サプライヤー",
+          "家具用化粧フィルムラミネート機 価格",
+          "家具用化粧フィルムラミネート機 見積",
+          "家具用化粧フィルムラミネート機 PVC化粧フィルム、木目フィルム、エッジ材フィルム"
+        ],
+        "targetProductPage": "/ja/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "application",
+        "seedTitle": "Edge banding film laminating and rewinding options",
+        "primaryKeywords": [
+          "家具用化粧フィルムラミネート機 メーカー",
+          "家具用化粧フィルムラミネート機 サプライヤー",
+          "家具用化粧フィルムラミネート機 価格",
+          "家具用化粧フィルムラミネート機 見積",
+          "家具用化粧フィルムラミネート機 PVC化粧フィルム、木目フィルム、エッジ材フィルム"
+        ],
+        "targetProductPage": "/ja/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Furniture film laminating line quotation factors",
+        "primaryKeywords": [
+          "家具用化粧フィルムラミネート機 メーカー",
+          "家具用化粧フィルムラミネート機 サプライヤー",
+          "家具用化粧フィルムラミネート機 価格",
+          "家具用化粧フィルムラミネート機 見積",
+          "家具用化粧フィルムラミネート機 PVC化粧フィルム、木目フィルム、エッジ材フィルム"
+        ],
+        "targetProductPage": "/ja/products/furniture-film-laminating-machine/"
+      }
+    ]
+  },
+  {
+    "locale": "ko",
+    "path": "/ko/blog/",
+    "currency": "KRW/USD",
+    "dateExample": "2026년 5월 31일",
+    "topics": [
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC tarpaulin laminating machine buying guide",
+        "primaryKeywords": [
+          "PVC 타포린 라미네이팅 기계 제조사",
+          "PVC 타포린 라미네이팅 기계 공급업체",
+          "PVC 타포린 라미네이팅 기계 가격",
+          "PVC 타포린 라미네이팅 기계 견적",
+          "PVC 타포린 라미네이팅 기계 PVC 필름, 타포린, 텐트 원단, 플렉스 배너"
+        ],
+        "targetProductPage": "/ko/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "specification",
+        "seedTitle": "1600 mm vs 2000 mm PVC tarpaulin laminating line",
+        "primaryKeywords": [
+          "PVC 타포린 라미네이팅 기계 제조사",
+          "PVC 타포린 라미네이팅 기계 공급업체",
+          "PVC 타포린 라미네이팅 기계 가격",
+          "PVC 타포린 라미네이팅 기계 견적",
+          "PVC 타포린 라미네이팅 기계 PVC 필름, 타포린, 텐트 원단, 플렉스 배너"
+        ],
+        "targetProductPage": "/ko/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "comparison",
+        "seedTitle": "Hot oil heating or electric heating for PVC laminating",
+        "primaryKeywords": [
+          "PVC 타포린 라미네이팅 기계 제조사",
+          "PVC 타포린 라미네이팅 기계 공급업체",
+          "PVC 타포린 라미네이팅 기계 가격",
+          "PVC 타포린 라미네이팅 기계 견적",
+          "PVC 타포린 라미네이팅 기계 PVC 필름, 타포린, 텐트 원단, 플렉스 배너"
+        ],
+        "targetProductPage": "/ko/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Flex banner laminating machine quotation checklist",
+        "primaryKeywords": [
+          "PVC 타포린 라미네이팅 기계 제조사",
+          "PVC 타포린 라미네이팅 기계 공급업체",
+          "PVC 타포린 라미네이팅 기계 가격",
+          "PVC 타포린 라미네이팅 기계 견적",
+          "PVC 타포린 라미네이팅 기계 PVC 필름, 타포린, 텐트 원단, 플렉스 배너"
+        ],
+        "targetProductPage": "/ko/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC film gravure printing machine for flexible packaging",
+        "primaryKeywords": [
+          "그라비어 인쇄기 제조사",
+          "그라비어 인쇄기 공급업체",
+          "그라비어 인쇄기 가격",
+          "그라비어 인쇄기 견적",
+          "그라비어 인쇄기 PVC, PE, BOPP, CPP, 연포장 필름 및 원단"
+        ],
+        "targetProductPage": "/ko/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "material",
+        "seedTitle": "BOPP CPP PE film gravure printer material guide",
+        "primaryKeywords": [
+          "그라비어 인쇄기 제조사",
+          "그라비어 인쇄기 공급업체",
+          "그라비어 인쇄기 가격",
+          "그라비어 인쇄기 견적",
+          "그라비어 인쇄기 PVC, PE, BOPP, CPP, 연포장 필름 및 원단"
+        ],
+        "targetProductPage": "/ko/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "comparison",
+        "seedTitle": "Shaftless gravure printing machine buyer questions",
+        "primaryKeywords": [
+          "그라비어 인쇄기 제조사",
+          "그라비어 인쇄기 공급업체",
+          "그라비어 인쇄기 가격",
+          "그라비어 인쇄기 견적",
+          "그라비어 인쇄기 PVC, PE, BOPP, CPP, 연포장 필름 및 원단"
+        ],
+        "targetProductPage": "/ko/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "technical",
+        "seedTitle": "Ink drying and tension control in film printing lines",
+        "primaryKeywords": [
+          "그라비어 인쇄기 제조사",
+          "그라비어 인쇄기 공급업체",
+          "그라비어 인쇄기 가격",
+          "그라비어 인쇄기 견적",
+          "그라비어 인쇄기 PVC, PE, BOPP, CPP, 연포장 필름 및 원단"
+        ],
+        "targetProductPage": "/ko/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "commercial",
+        "seedTitle": "Automatic calender winder for PVC sheet lines",
+        "primaryKeywords": [
+          "캘린더 라인 권취기 제조사",
+          "캘린더 라인 권취기 공급업체",
+          "캘린더 라인 권취기 가격",
+          "캘린더 라인 권취기 견적",
+          "캘린더 라인 권취기 PVC, PE, 반경질 필름, 경질 필름"
+        ],
+        "targetProductPage": "/ko/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "specification",
+        "seedTitle": "How to choose winding width and roll diameter",
+        "primaryKeywords": [
+          "캘린더 라인 권취기 제조사",
+          "캘린더 라인 권취기 공급업체",
+          "캘린더 라인 권취기 가격",
+          "캘린더 라인 권취기 견적",
+          "캘린더 라인 권취기 PVC, PE, 반경질 필름, 경질 필름"
+        ],
+        "targetProductPage": "/ko/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "technical",
+        "seedTitle": "Automatic cutter options for center winding machines",
+        "primaryKeywords": [
+          "캘린더 라인 권취기 제조사",
+          "캘린더 라인 권취기 공급업체",
+          "캘린더 라인 권취기 가격",
+          "캘린더 라인 권취기 견적",
+          "캘린더 라인 권취기 PVC, PE, 반경질 필름, 경질 필름"
+        ],
+        "targetProductPage": "/ko/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "maintenance",
+        "seedTitle": "PVC PE film rewinding machine maintenance checklist",
+        "primaryKeywords": [
+          "캘린더 라인 권취기 제조사",
+          "캘린더 라인 권취기 공급업체",
+          "캘린더 라인 권취기 가격",
+          "캘린더 라인 권취기 견적",
+          "캘린더 라인 권취기 PVC, PE, 반경질 필름, 경질 필름"
+        ],
+        "targetProductPage": "/ko/products/calender-winder/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "Furniture film laminating machine for wood grain film",
+        "primaryKeywords": [
+          "가구 필름 라미네이팅 기계 제조사",
+          "가구 필름 라미네이팅 기계 공급업체",
+          "가구 필름 라미네이팅 기계 가격",
+          "가구 필름 라미네이팅 기계 견적",
+          "가구 필름 라미네이팅 기계 PVC 데코 필름, 우드그레인 필름, 엣지밴딩 필름"
+        ],
+        "targetProductPage": "/ko/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "layout",
+        "seedTitle": "PVC decorative film line layout checklist",
+        "primaryKeywords": [
+          "가구 필름 라미네이팅 기계 제조사",
+          "가구 필름 라미네이팅 기계 공급업체",
+          "가구 필름 라미네이팅 기계 가격",
+          "가구 필름 라미네이팅 기계 견적",
+          "가구 필름 라미네이팅 기계 PVC 데코 필름, 우드그레인 필름, 엣지밴딩 필름"
+        ],
+        "targetProductPage": "/ko/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "application",
+        "seedTitle": "Edge banding film laminating and rewinding options",
+        "primaryKeywords": [
+          "가구 필름 라미네이팅 기계 제조사",
+          "가구 필름 라미네이팅 기계 공급업체",
+          "가구 필름 라미네이팅 기계 가격",
+          "가구 필름 라미네이팅 기계 견적",
+          "가구 필름 라미네이팅 기계 PVC 데코 필름, 우드그레인 필름, 엣지밴딩 필름"
+        ],
+        "targetProductPage": "/ko/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Furniture film laminating line quotation factors",
+        "primaryKeywords": [
+          "가구 필름 라미네이팅 기계 제조사",
+          "가구 필름 라미네이팅 기계 공급업체",
+          "가구 필름 라미네이팅 기계 가격",
+          "가구 필름 라미네이팅 기계 견적",
+          "가구 필름 라미네이팅 기계 PVC 데코 필름, 우드그레인 필름, 엣지밴딩 필름"
+        ],
+        "targetProductPage": "/ko/products/furniture-film-laminating-machine/"
+      }
+    ]
+  },
+  {
+    "locale": "it",
+    "path": "/it/blog/",
+    "currency": "EUR",
+    "dateExample": "31 maggio 2026",
+    "topics": [
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC tarpaulin laminating machine buying guide",
+        "primaryKeywords": [
+          "Laminatrice per teloni PVC produttore",
+          "Laminatrice per teloni PVC fornitore",
+          "Laminatrice per teloni PVC prezzo",
+          "Laminatrice per teloni PVC preventivo",
+          "Laminatrice per teloni PVC film PVC, telone, tessuto per tende e flex banner"
+        ],
+        "targetProductPage": "/it/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "specification",
+        "seedTitle": "1600 mm vs 2000 mm PVC tarpaulin laminating line",
+        "primaryKeywords": [
+          "Laminatrice per teloni PVC produttore",
+          "Laminatrice per teloni PVC fornitore",
+          "Laminatrice per teloni PVC prezzo",
+          "Laminatrice per teloni PVC preventivo",
+          "Laminatrice per teloni PVC film PVC, telone, tessuto per tende e flex banner"
+        ],
+        "targetProductPage": "/it/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "comparison",
+        "seedTitle": "Hot oil heating or electric heating for PVC laminating",
+        "primaryKeywords": [
+          "Laminatrice per teloni PVC produttore",
+          "Laminatrice per teloni PVC fornitore",
+          "Laminatrice per teloni PVC prezzo",
+          "Laminatrice per teloni PVC preventivo",
+          "Laminatrice per teloni PVC film PVC, telone, tessuto per tende e flex banner"
+        ],
+        "targetProductPage": "/it/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Flex banner laminating machine quotation checklist",
+        "primaryKeywords": [
+          "Laminatrice per teloni PVC produttore",
+          "Laminatrice per teloni PVC fornitore",
+          "Laminatrice per teloni PVC prezzo",
+          "Laminatrice per teloni PVC preventivo",
+          "Laminatrice per teloni PVC film PVC, telone, tessuto per tende e flex banner"
+        ],
+        "targetProductPage": "/it/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC film gravure printing machine for flexible packaging",
+        "primaryKeywords": [
+          "Macchina da stampa rotocalco produttore",
+          "Macchina da stampa rotocalco fornitore",
+          "Macchina da stampa rotocalco prezzo",
+          "Macchina da stampa rotocalco preventivo",
+          "Macchina da stampa rotocalco PVC, PE, BOPP, CPP, film flessibile e tessuto"
+        ],
+        "targetProductPage": "/it/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "material",
+        "seedTitle": "BOPP CPP PE film gravure printer material guide",
+        "primaryKeywords": [
+          "Macchina da stampa rotocalco produttore",
+          "Macchina da stampa rotocalco fornitore",
+          "Macchina da stampa rotocalco prezzo",
+          "Macchina da stampa rotocalco preventivo",
+          "Macchina da stampa rotocalco PVC, PE, BOPP, CPP, film flessibile e tessuto"
+        ],
+        "targetProductPage": "/it/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "comparison",
+        "seedTitle": "Shaftless gravure printing machine buyer questions",
+        "primaryKeywords": [
+          "Macchina da stampa rotocalco produttore",
+          "Macchina da stampa rotocalco fornitore",
+          "Macchina da stampa rotocalco prezzo",
+          "Macchina da stampa rotocalco preventivo",
+          "Macchina da stampa rotocalco PVC, PE, BOPP, CPP, film flessibile e tessuto"
+        ],
+        "targetProductPage": "/it/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "technical",
+        "seedTitle": "Ink drying and tension control in film printing lines",
+        "primaryKeywords": [
+          "Macchina da stampa rotocalco produttore",
+          "Macchina da stampa rotocalco fornitore",
+          "Macchina da stampa rotocalco prezzo",
+          "Macchina da stampa rotocalco preventivo",
+          "Macchina da stampa rotocalco PVC, PE, BOPP, CPP, film flessibile e tessuto"
+        ],
+        "targetProductPage": "/it/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "commercial",
+        "seedTitle": "Automatic calender winder for PVC sheet lines",
+        "primaryKeywords": [
+          "Avvolgitore per linea calandra produttore",
+          "Avvolgitore per linea calandra fornitore",
+          "Avvolgitore per linea calandra prezzo",
+          "Avvolgitore per linea calandra preventivo",
+          "Avvolgitore per linea calandra PVC, PE, film semirigido e film rigido"
+        ],
+        "targetProductPage": "/it/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "specification",
+        "seedTitle": "How to choose winding width and roll diameter",
+        "primaryKeywords": [
+          "Avvolgitore per linea calandra produttore",
+          "Avvolgitore per linea calandra fornitore",
+          "Avvolgitore per linea calandra prezzo",
+          "Avvolgitore per linea calandra preventivo",
+          "Avvolgitore per linea calandra PVC, PE, film semirigido e film rigido"
+        ],
+        "targetProductPage": "/it/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "technical",
+        "seedTitle": "Automatic cutter options for center winding machines",
+        "primaryKeywords": [
+          "Avvolgitore per linea calandra produttore",
+          "Avvolgitore per linea calandra fornitore",
+          "Avvolgitore per linea calandra prezzo",
+          "Avvolgitore per linea calandra preventivo",
+          "Avvolgitore per linea calandra PVC, PE, film semirigido e film rigido"
+        ],
+        "targetProductPage": "/it/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "maintenance",
+        "seedTitle": "PVC PE film rewinding machine maintenance checklist",
+        "primaryKeywords": [
+          "Avvolgitore per linea calandra produttore",
+          "Avvolgitore per linea calandra fornitore",
+          "Avvolgitore per linea calandra prezzo",
+          "Avvolgitore per linea calandra preventivo",
+          "Avvolgitore per linea calandra PVC, PE, film semirigido e film rigido"
+        ],
+        "targetProductPage": "/it/products/calender-winder/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "Furniture film laminating machine for wood grain film",
+        "primaryKeywords": [
+          "Laminatrice per film decorativo mobili produttore",
+          "Laminatrice per film decorativo mobili fornitore",
+          "Laminatrice per film decorativo mobili prezzo",
+          "Laminatrice per film decorativo mobili preventivo",
+          "Laminatrice per film decorativo mobili film decorativo PVC, film effetto legno e film bordo"
+        ],
+        "targetProductPage": "/it/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "layout",
+        "seedTitle": "PVC decorative film line layout checklist",
+        "primaryKeywords": [
+          "Laminatrice per film decorativo mobili produttore",
+          "Laminatrice per film decorativo mobili fornitore",
+          "Laminatrice per film decorativo mobili prezzo",
+          "Laminatrice per film decorativo mobili preventivo",
+          "Laminatrice per film decorativo mobili film decorativo PVC, film effetto legno e film bordo"
+        ],
+        "targetProductPage": "/it/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "application",
+        "seedTitle": "Edge banding film laminating and rewinding options",
+        "primaryKeywords": [
+          "Laminatrice per film decorativo mobili produttore",
+          "Laminatrice per film decorativo mobili fornitore",
+          "Laminatrice per film decorativo mobili prezzo",
+          "Laminatrice per film decorativo mobili preventivo",
+          "Laminatrice per film decorativo mobili film decorativo PVC, film effetto legno e film bordo"
+        ],
+        "targetProductPage": "/it/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Furniture film laminating line quotation factors",
+        "primaryKeywords": [
+          "Laminatrice per film decorativo mobili produttore",
+          "Laminatrice per film decorativo mobili fornitore",
+          "Laminatrice per film decorativo mobili prezzo",
+          "Laminatrice per film decorativo mobili preventivo",
+          "Laminatrice per film decorativo mobili film decorativo PVC, film effetto legno e film bordo"
+        ],
+        "targetProductPage": "/it/products/furniture-film-laminating-machine/"
+      }
+    ]
+  },
+  {
+    "locale": "tr",
+    "path": "/tr/blog/",
+    "currency": "USD/TRY",
+    "dateExample": "31 Mayıs 2026",
+    "topics": [
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC tarpaulin laminating machine buying guide",
+        "primaryKeywords": [
+          "PVC branda laminasyon makinesi üretici",
+          "PVC branda laminasyon makinesi tedarikçi",
+          "PVC branda laminasyon makinesi fiyat",
+          "PVC branda laminasyon makinesi teklif",
+          "PVC branda laminasyon makinesi PVC film, branda, çadır kumaşı ve flex banner"
+        ],
+        "targetProductPage": "/tr/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "specification",
+        "seedTitle": "1600 mm vs 2000 mm PVC tarpaulin laminating line",
+        "primaryKeywords": [
+          "PVC branda laminasyon makinesi üretici",
+          "PVC branda laminasyon makinesi tedarikçi",
+          "PVC branda laminasyon makinesi fiyat",
+          "PVC branda laminasyon makinesi teklif",
+          "PVC branda laminasyon makinesi PVC film, branda, çadır kumaşı ve flex banner"
+        ],
+        "targetProductPage": "/tr/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "comparison",
+        "seedTitle": "Hot oil heating or electric heating for PVC laminating",
+        "primaryKeywords": [
+          "PVC branda laminasyon makinesi üretici",
+          "PVC branda laminasyon makinesi tedarikçi",
+          "PVC branda laminasyon makinesi fiyat",
+          "PVC branda laminasyon makinesi teklif",
+          "PVC branda laminasyon makinesi PVC film, branda, çadır kumaşı ve flex banner"
+        ],
+        "targetProductPage": "/tr/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Flex banner laminating machine quotation checklist",
+        "primaryKeywords": [
+          "PVC branda laminasyon makinesi üretici",
+          "PVC branda laminasyon makinesi tedarikçi",
+          "PVC branda laminasyon makinesi fiyat",
+          "PVC branda laminasyon makinesi teklif",
+          "PVC branda laminasyon makinesi PVC film, branda, çadır kumaşı ve flex banner"
+        ],
+        "targetProductPage": "/tr/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC film gravure printing machine for flexible packaging",
+        "primaryKeywords": [
+          "Rotogravür baskı makinesi üretici",
+          "Rotogravür baskı makinesi tedarikçi",
+          "Rotogravür baskı makinesi fiyat",
+          "Rotogravür baskı makinesi teklif",
+          "Rotogravür baskı makinesi PVC, PE, BOPP, CPP, esnek film ve kumaş"
+        ],
+        "targetProductPage": "/tr/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "material",
+        "seedTitle": "BOPP CPP PE film gravure printer material guide",
+        "primaryKeywords": [
+          "Rotogravür baskı makinesi üretici",
+          "Rotogravür baskı makinesi tedarikçi",
+          "Rotogravür baskı makinesi fiyat",
+          "Rotogravür baskı makinesi teklif",
+          "Rotogravür baskı makinesi PVC, PE, BOPP, CPP, esnek film ve kumaş"
+        ],
+        "targetProductPage": "/tr/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "comparison",
+        "seedTitle": "Shaftless gravure printing machine buyer questions",
+        "primaryKeywords": [
+          "Rotogravür baskı makinesi üretici",
+          "Rotogravür baskı makinesi tedarikçi",
+          "Rotogravür baskı makinesi fiyat",
+          "Rotogravür baskı makinesi teklif",
+          "Rotogravür baskı makinesi PVC, PE, BOPP, CPP, esnek film ve kumaş"
+        ],
+        "targetProductPage": "/tr/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "technical",
+        "seedTitle": "Ink drying and tension control in film printing lines",
+        "primaryKeywords": [
+          "Rotogravür baskı makinesi üretici",
+          "Rotogravür baskı makinesi tedarikçi",
+          "Rotogravür baskı makinesi fiyat",
+          "Rotogravür baskı makinesi teklif",
+          "Rotogravür baskı makinesi PVC, PE, BOPP, CPP, esnek film ve kumaş"
+        ],
+        "targetProductPage": "/tr/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "commercial",
+        "seedTitle": "Automatic calender winder for PVC sheet lines",
+        "primaryKeywords": [
+          "Kalandır hattı sarıcı üretici",
+          "Kalandır hattı sarıcı tedarikçi",
+          "Kalandır hattı sarıcı fiyat",
+          "Kalandır hattı sarıcı teklif",
+          "Kalandır hattı sarıcı PVC, PE, yarı sert film ve sert film"
+        ],
+        "targetProductPage": "/tr/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "specification",
+        "seedTitle": "How to choose winding width and roll diameter",
+        "primaryKeywords": [
+          "Kalandır hattı sarıcı üretici",
+          "Kalandır hattı sarıcı tedarikçi",
+          "Kalandır hattı sarıcı fiyat",
+          "Kalandır hattı sarıcı teklif",
+          "Kalandır hattı sarıcı PVC, PE, yarı sert film ve sert film"
+        ],
+        "targetProductPage": "/tr/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "technical",
+        "seedTitle": "Automatic cutter options for center winding machines",
+        "primaryKeywords": [
+          "Kalandır hattı sarıcı üretici",
+          "Kalandır hattı sarıcı tedarikçi",
+          "Kalandır hattı sarıcı fiyat",
+          "Kalandır hattı sarıcı teklif",
+          "Kalandır hattı sarıcı PVC, PE, yarı sert film ve sert film"
+        ],
+        "targetProductPage": "/tr/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "maintenance",
+        "seedTitle": "PVC PE film rewinding machine maintenance checklist",
+        "primaryKeywords": [
+          "Kalandır hattı sarıcı üretici",
+          "Kalandır hattı sarıcı tedarikçi",
+          "Kalandır hattı sarıcı fiyat",
+          "Kalandır hattı sarıcı teklif",
+          "Kalandır hattı sarıcı PVC, PE, yarı sert film ve sert film"
+        ],
+        "targetProductPage": "/tr/products/calender-winder/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "Furniture film laminating machine for wood grain film",
+        "primaryKeywords": [
+          "Mobilya filmi laminasyon makinesi üretici",
+          "Mobilya filmi laminasyon makinesi tedarikçi",
+          "Mobilya filmi laminasyon makinesi fiyat",
+          "Mobilya filmi laminasyon makinesi teklif",
+          "Mobilya filmi laminasyon makinesi PVC dekoratif film, ahşap desen film ve kenar bandı filmi"
+        ],
+        "targetProductPage": "/tr/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "layout",
+        "seedTitle": "PVC decorative film line layout checklist",
+        "primaryKeywords": [
+          "Mobilya filmi laminasyon makinesi üretici",
+          "Mobilya filmi laminasyon makinesi tedarikçi",
+          "Mobilya filmi laminasyon makinesi fiyat",
+          "Mobilya filmi laminasyon makinesi teklif",
+          "Mobilya filmi laminasyon makinesi PVC dekoratif film, ahşap desen film ve kenar bandı filmi"
+        ],
+        "targetProductPage": "/tr/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "application",
+        "seedTitle": "Edge banding film laminating and rewinding options",
+        "primaryKeywords": [
+          "Mobilya filmi laminasyon makinesi üretici",
+          "Mobilya filmi laminasyon makinesi tedarikçi",
+          "Mobilya filmi laminasyon makinesi fiyat",
+          "Mobilya filmi laminasyon makinesi teklif",
+          "Mobilya filmi laminasyon makinesi PVC dekoratif film, ahşap desen film ve kenar bandı filmi"
+        ],
+        "targetProductPage": "/tr/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Furniture film laminating line quotation factors",
+        "primaryKeywords": [
+          "Mobilya filmi laminasyon makinesi üretici",
+          "Mobilya filmi laminasyon makinesi tedarikçi",
+          "Mobilya filmi laminasyon makinesi fiyat",
+          "Mobilya filmi laminasyon makinesi teklif",
+          "Mobilya filmi laminasyon makinesi PVC dekoratif film, ahşap desen film ve kenar bandı filmi"
+        ],
+        "targetProductPage": "/tr/products/furniture-film-laminating-machine/"
+      }
+    ]
+  },
+  {
+    "locale": "pl",
+    "path": "/pl/blog/",
+    "currency": "EUR/PLN",
+    "dateExample": "31 maja 2026",
+    "topics": [
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC tarpaulin laminating machine buying guide",
+        "primaryKeywords": [
+          "Laminarka do plandek PVC producent",
+          "Laminarka do plandek PVC dostawca",
+          "Laminarka do plandek PVC cena",
+          "Laminarka do plandek PVC oferta",
+          "Laminarka do plandek PVC folia PVC, plandeka, tkanina namiotowa i baner flex"
+        ],
+        "targetProductPage": "/pl/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "specification",
+        "seedTitle": "1600 mm vs 2000 mm PVC tarpaulin laminating line",
+        "primaryKeywords": [
+          "Laminarka do plandek PVC producent",
+          "Laminarka do plandek PVC dostawca",
+          "Laminarka do plandek PVC cena",
+          "Laminarka do plandek PVC oferta",
+          "Laminarka do plandek PVC folia PVC, plandeka, tkanina namiotowa i baner flex"
+        ],
+        "targetProductPage": "/pl/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "comparison",
+        "seedTitle": "Hot oil heating or electric heating for PVC laminating",
+        "primaryKeywords": [
+          "Laminarka do plandek PVC producent",
+          "Laminarka do plandek PVC dostawca",
+          "Laminarka do plandek PVC cena",
+          "Laminarka do plandek PVC oferta",
+          "Laminarka do plandek PVC folia PVC, plandeka, tkanina namiotowa i baner flex"
+        ],
+        "targetProductPage": "/pl/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Flex banner laminating machine quotation checklist",
+        "primaryKeywords": [
+          "Laminarka do plandek PVC producent",
+          "Laminarka do plandek PVC dostawca",
+          "Laminarka do plandek PVC cena",
+          "Laminarka do plandek PVC oferta",
+          "Laminarka do plandek PVC folia PVC, plandeka, tkanina namiotowa i baner flex"
+        ],
+        "targetProductPage": "/pl/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC film gravure printing machine for flexible packaging",
+        "primaryKeywords": [
+          "Maszyna do druku rotograwiurowego producent",
+          "Maszyna do druku rotograwiurowego dostawca",
+          "Maszyna do druku rotograwiurowego cena",
+          "Maszyna do druku rotograwiurowego oferta",
+          "Maszyna do druku rotograwiurowego PVC, PE, BOPP, CPP, folia elastyczna i tkanina"
+        ],
+        "targetProductPage": "/pl/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "material",
+        "seedTitle": "BOPP CPP PE film gravure printer material guide",
+        "primaryKeywords": [
+          "Maszyna do druku rotograwiurowego producent",
+          "Maszyna do druku rotograwiurowego dostawca",
+          "Maszyna do druku rotograwiurowego cena",
+          "Maszyna do druku rotograwiurowego oferta",
+          "Maszyna do druku rotograwiurowego PVC, PE, BOPP, CPP, folia elastyczna i tkanina"
+        ],
+        "targetProductPage": "/pl/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "comparison",
+        "seedTitle": "Shaftless gravure printing machine buyer questions",
+        "primaryKeywords": [
+          "Maszyna do druku rotograwiurowego producent",
+          "Maszyna do druku rotograwiurowego dostawca",
+          "Maszyna do druku rotograwiurowego cena",
+          "Maszyna do druku rotograwiurowego oferta",
+          "Maszyna do druku rotograwiurowego PVC, PE, BOPP, CPP, folia elastyczna i tkanina"
+        ],
+        "targetProductPage": "/pl/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "technical",
+        "seedTitle": "Ink drying and tension control in film printing lines",
+        "primaryKeywords": [
+          "Maszyna do druku rotograwiurowego producent",
+          "Maszyna do druku rotograwiurowego dostawca",
+          "Maszyna do druku rotograwiurowego cena",
+          "Maszyna do druku rotograwiurowego oferta",
+          "Maszyna do druku rotograwiurowego PVC, PE, BOPP, CPP, folia elastyczna i tkanina"
+        ],
+        "targetProductPage": "/pl/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "commercial",
+        "seedTitle": "Automatic calender winder for PVC sheet lines",
+        "primaryKeywords": [
+          "Nawijarka do linii kalandrowej producent",
+          "Nawijarka do linii kalandrowej dostawca",
+          "Nawijarka do linii kalandrowej cena",
+          "Nawijarka do linii kalandrowej oferta",
+          "Nawijarka do linii kalandrowej PVC, PE, folia półsztywna i sztywna"
+        ],
+        "targetProductPage": "/pl/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "specification",
+        "seedTitle": "How to choose winding width and roll diameter",
+        "primaryKeywords": [
+          "Nawijarka do linii kalandrowej producent",
+          "Nawijarka do linii kalandrowej dostawca",
+          "Nawijarka do linii kalandrowej cena",
+          "Nawijarka do linii kalandrowej oferta",
+          "Nawijarka do linii kalandrowej PVC, PE, folia półsztywna i sztywna"
+        ],
+        "targetProductPage": "/pl/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "technical",
+        "seedTitle": "Automatic cutter options for center winding machines",
+        "primaryKeywords": [
+          "Nawijarka do linii kalandrowej producent",
+          "Nawijarka do linii kalandrowej dostawca",
+          "Nawijarka do linii kalandrowej cena",
+          "Nawijarka do linii kalandrowej oferta",
+          "Nawijarka do linii kalandrowej PVC, PE, folia półsztywna i sztywna"
+        ],
+        "targetProductPage": "/pl/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "maintenance",
+        "seedTitle": "PVC PE film rewinding machine maintenance checklist",
+        "primaryKeywords": [
+          "Nawijarka do linii kalandrowej producent",
+          "Nawijarka do linii kalandrowej dostawca",
+          "Nawijarka do linii kalandrowej cena",
+          "Nawijarka do linii kalandrowej oferta",
+          "Nawijarka do linii kalandrowej PVC, PE, folia półsztywna i sztywna"
+        ],
+        "targetProductPage": "/pl/products/calender-winder/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "Furniture film laminating machine for wood grain film",
+        "primaryKeywords": [
+          "Laminarka folii meblowej producent",
+          "Laminarka folii meblowej dostawca",
+          "Laminarka folii meblowej cena",
+          "Laminarka folii meblowej oferta",
+          "Laminarka folii meblowej folia dekoracyjna PVC, folia drewnopodobna i folia obrzeżowa"
+        ],
+        "targetProductPage": "/pl/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "layout",
+        "seedTitle": "PVC decorative film line layout checklist",
+        "primaryKeywords": [
+          "Laminarka folii meblowej producent",
+          "Laminarka folii meblowej dostawca",
+          "Laminarka folii meblowej cena",
+          "Laminarka folii meblowej oferta",
+          "Laminarka folii meblowej folia dekoracyjna PVC, folia drewnopodobna i folia obrzeżowa"
+        ],
+        "targetProductPage": "/pl/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "application",
+        "seedTitle": "Edge banding film laminating and rewinding options",
+        "primaryKeywords": [
+          "Laminarka folii meblowej producent",
+          "Laminarka folii meblowej dostawca",
+          "Laminarka folii meblowej cena",
+          "Laminarka folii meblowej oferta",
+          "Laminarka folii meblowej folia dekoracyjna PVC, folia drewnopodobna i folia obrzeżowa"
+        ],
+        "targetProductPage": "/pl/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Furniture film laminating line quotation factors",
+        "primaryKeywords": [
+          "Laminarka folii meblowej producent",
+          "Laminarka folii meblowej dostawca",
+          "Laminarka folii meblowej cena",
+          "Laminarka folii meblowej oferta",
+          "Laminarka folii meblowej folia dekoracyjna PVC, folia drewnopodobna i folia obrzeżowa"
+        ],
+        "targetProductPage": "/pl/products/furniture-film-laminating-machine/"
+      }
+    ]
+  },
+  {
+    "locale": "th",
+    "path": "/th/blog/",
+    "currency": "THB/USD",
+    "dateExample": "31 พฤษภาคม 2026",
+    "topics": [
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC tarpaulin laminating machine buying guide",
+        "primaryKeywords": [
+          "เครื่องลามิเนตผ้าใบ PVC ผู้ผลิต",
+          "เครื่องลามิเนตผ้าใบ PVC ซัพพลายเออร์",
+          "เครื่องลามิเนตผ้าใบ PVC ราคา",
+          "เครื่องลามิเนตผ้าใบ PVC ใบเสนอราคา",
+          "เครื่องลามิเนตผ้าใบ PVC ฟิล์ม PVC, ผ้าใบ, ผ้าเต็นท์ และ flex banner"
+        ],
+        "targetProductPage": "/th/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "specification",
+        "seedTitle": "1600 mm vs 2000 mm PVC tarpaulin laminating line",
+        "primaryKeywords": [
+          "เครื่องลามิเนตผ้าใบ PVC ผู้ผลิต",
+          "เครื่องลามิเนตผ้าใบ PVC ซัพพลายเออร์",
+          "เครื่องลามิเนตผ้าใบ PVC ราคา",
+          "เครื่องลามิเนตผ้าใบ PVC ใบเสนอราคา",
+          "เครื่องลามิเนตผ้าใบ PVC ฟิล์ม PVC, ผ้าใบ, ผ้าเต็นท์ และ flex banner"
+        ],
+        "targetProductPage": "/th/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "comparison",
+        "seedTitle": "Hot oil heating or electric heating for PVC laminating",
+        "primaryKeywords": [
+          "เครื่องลามิเนตผ้าใบ PVC ผู้ผลิต",
+          "เครื่องลามิเนตผ้าใบ PVC ซัพพลายเออร์",
+          "เครื่องลามิเนตผ้าใบ PVC ราคา",
+          "เครื่องลามิเนตผ้าใบ PVC ใบเสนอราคา",
+          "เครื่องลามิเนตผ้าใบ PVC ฟิล์ม PVC, ผ้าใบ, ผ้าเต็นท์ และ flex banner"
+        ],
+        "targetProductPage": "/th/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Flex banner laminating machine quotation checklist",
+        "primaryKeywords": [
+          "เครื่องลามิเนตผ้าใบ PVC ผู้ผลิต",
+          "เครื่องลามิเนตผ้าใบ PVC ซัพพลายเออร์",
+          "เครื่องลามิเนตผ้าใบ PVC ราคา",
+          "เครื่องลามิเนตผ้าใบ PVC ใบเสนอราคา",
+          "เครื่องลามิเนตผ้าใบ PVC ฟิล์ม PVC, ผ้าใบ, ผ้าเต็นท์ และ flex banner"
+        ],
+        "targetProductPage": "/th/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC film gravure printing machine for flexible packaging",
+        "primaryKeywords": [
+          "เครื่องพิมพ์กราเวียร์ ผู้ผลิต",
+          "เครื่องพิมพ์กราเวียร์ ซัพพลายเออร์",
+          "เครื่องพิมพ์กราเวียร์ ราคา",
+          "เครื่องพิมพ์กราเวียร์ ใบเสนอราคา",
+          "เครื่องพิมพ์กราเวียร์ PVC, PE, BOPP, CPP, ฟิล์มอ่อนและผ้า"
+        ],
+        "targetProductPage": "/th/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "material",
+        "seedTitle": "BOPP CPP PE film gravure printer material guide",
+        "primaryKeywords": [
+          "เครื่องพิมพ์กราเวียร์ ผู้ผลิต",
+          "เครื่องพิมพ์กราเวียร์ ซัพพลายเออร์",
+          "เครื่องพิมพ์กราเวียร์ ราคา",
+          "เครื่องพิมพ์กราเวียร์ ใบเสนอราคา",
+          "เครื่องพิมพ์กราเวียร์ PVC, PE, BOPP, CPP, ฟิล์มอ่อนและผ้า"
+        ],
+        "targetProductPage": "/th/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "comparison",
+        "seedTitle": "Shaftless gravure printing machine buyer questions",
+        "primaryKeywords": [
+          "เครื่องพิมพ์กราเวียร์ ผู้ผลิต",
+          "เครื่องพิมพ์กราเวียร์ ซัพพลายเออร์",
+          "เครื่องพิมพ์กราเวียร์ ราคา",
+          "เครื่องพิมพ์กราเวียร์ ใบเสนอราคา",
+          "เครื่องพิมพ์กราเวียร์ PVC, PE, BOPP, CPP, ฟิล์มอ่อนและผ้า"
+        ],
+        "targetProductPage": "/th/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "technical",
+        "seedTitle": "Ink drying and tension control in film printing lines",
+        "primaryKeywords": [
+          "เครื่องพิมพ์กราเวียร์ ผู้ผลิต",
+          "เครื่องพิมพ์กราเวียร์ ซัพพลายเออร์",
+          "เครื่องพิมพ์กราเวียร์ ราคา",
+          "เครื่องพิมพ์กราเวียร์ ใบเสนอราคา",
+          "เครื่องพิมพ์กราเวียร์ PVC, PE, BOPP, CPP, ฟิล์มอ่อนและผ้า"
+        ],
+        "targetProductPage": "/th/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "commercial",
+        "seedTitle": "Automatic calender winder for PVC sheet lines",
+        "primaryKeywords": [
+          "เครื่องม้วนสำหรับไลน์คาเลนเดอร์ ผู้ผลิต",
+          "เครื่องม้วนสำหรับไลน์คาเลนเดอร์ ซัพพลายเออร์",
+          "เครื่องม้วนสำหรับไลน์คาเลนเดอร์ ราคา",
+          "เครื่องม้วนสำหรับไลน์คาเลนเดอร์ ใบเสนอราคา",
+          "เครื่องม้วนสำหรับไลน์คาเลนเดอร์ PVC, PE, ฟิล์มกึ่งแข็ง และฟิล์มแข็ง"
+        ],
+        "targetProductPage": "/th/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "specification",
+        "seedTitle": "How to choose winding width and roll diameter",
+        "primaryKeywords": [
+          "เครื่องม้วนสำหรับไลน์คาเลนเดอร์ ผู้ผลิต",
+          "เครื่องม้วนสำหรับไลน์คาเลนเดอร์ ซัพพลายเออร์",
+          "เครื่องม้วนสำหรับไลน์คาเลนเดอร์ ราคา",
+          "เครื่องม้วนสำหรับไลน์คาเลนเดอร์ ใบเสนอราคา",
+          "เครื่องม้วนสำหรับไลน์คาเลนเดอร์ PVC, PE, ฟิล์มกึ่งแข็ง และฟิล์มแข็ง"
+        ],
+        "targetProductPage": "/th/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "technical",
+        "seedTitle": "Automatic cutter options for center winding machines",
+        "primaryKeywords": [
+          "เครื่องม้วนสำหรับไลน์คาเลนเดอร์ ผู้ผลิต",
+          "เครื่องม้วนสำหรับไลน์คาเลนเดอร์ ซัพพลายเออร์",
+          "เครื่องม้วนสำหรับไลน์คาเลนเดอร์ ราคา",
+          "เครื่องม้วนสำหรับไลน์คาเลนเดอร์ ใบเสนอราคา",
+          "เครื่องม้วนสำหรับไลน์คาเลนเดอร์ PVC, PE, ฟิล์มกึ่งแข็ง และฟิล์มแข็ง"
+        ],
+        "targetProductPage": "/th/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "maintenance",
+        "seedTitle": "PVC PE film rewinding machine maintenance checklist",
+        "primaryKeywords": [
+          "เครื่องม้วนสำหรับไลน์คาเลนเดอร์ ผู้ผลิต",
+          "เครื่องม้วนสำหรับไลน์คาเลนเดอร์ ซัพพลายเออร์",
+          "เครื่องม้วนสำหรับไลน์คาเลนเดอร์ ราคา",
+          "เครื่องม้วนสำหรับไลน์คาเลนเดอร์ ใบเสนอราคา",
+          "เครื่องม้วนสำหรับไลน์คาเลนเดอร์ PVC, PE, ฟิล์มกึ่งแข็ง และฟิล์มแข็ง"
+        ],
+        "targetProductPage": "/th/products/calender-winder/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "Furniture film laminating machine for wood grain film",
+        "primaryKeywords": [
+          "เครื่องลามิเนตฟิล์มเฟอร์นิเจอร์ ผู้ผลิต",
+          "เครื่องลามิเนตฟิล์มเฟอร์นิเจอร์ ซัพพลายเออร์",
+          "เครื่องลามิเนตฟิล์มเฟอร์นิเจอร์ ราคา",
+          "เครื่องลามิเนตฟิล์มเฟอร์นิเจอร์ ใบเสนอราคา",
+          "เครื่องลามิเนตฟิล์มเฟอร์นิเจอร์ ฟิล์มตกแต่ง PVC, ฟิล์มลายไม้ และฟิล์มขอบ"
+        ],
+        "targetProductPage": "/th/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "layout",
+        "seedTitle": "PVC decorative film line layout checklist",
+        "primaryKeywords": [
+          "เครื่องลามิเนตฟิล์มเฟอร์นิเจอร์ ผู้ผลิต",
+          "เครื่องลามิเนตฟิล์มเฟอร์นิเจอร์ ซัพพลายเออร์",
+          "เครื่องลามิเนตฟิล์มเฟอร์นิเจอร์ ราคา",
+          "เครื่องลามิเนตฟิล์มเฟอร์นิเจอร์ ใบเสนอราคา",
+          "เครื่องลามิเนตฟิล์มเฟอร์นิเจอร์ ฟิล์มตกแต่ง PVC, ฟิล์มลายไม้ และฟิล์มขอบ"
+        ],
+        "targetProductPage": "/th/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "application",
+        "seedTitle": "Edge banding film laminating and rewinding options",
+        "primaryKeywords": [
+          "เครื่องลามิเนตฟิล์มเฟอร์นิเจอร์ ผู้ผลิต",
+          "เครื่องลามิเนตฟิล์มเฟอร์นิเจอร์ ซัพพลายเออร์",
+          "เครื่องลามิเนตฟิล์มเฟอร์นิเจอร์ ราคา",
+          "เครื่องลามิเนตฟิล์มเฟอร์นิเจอร์ ใบเสนอราคา",
+          "เครื่องลามิเนตฟิล์มเฟอร์นิเจอร์ ฟิล์มตกแต่ง PVC, ฟิล์มลายไม้ และฟิล์มขอบ"
+        ],
+        "targetProductPage": "/th/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Furniture film laminating line quotation factors",
+        "primaryKeywords": [
+          "เครื่องลามิเนตฟิล์มเฟอร์นิเจอร์ ผู้ผลิต",
+          "เครื่องลามิเนตฟิล์มเฟอร์นิเจอร์ ซัพพลายเออร์",
+          "เครื่องลามิเนตฟิล์มเฟอร์นิเจอร์ ราคา",
+          "เครื่องลามิเนตฟิล์มเฟอร์นิเจอร์ ใบเสนอราคา",
+          "เครื่องลามิเนตฟิล์มเฟอร์นิเจอร์ ฟิล์มตกแต่ง PVC, ฟิล์มลายไม้ และฟิล์มขอบ"
+        ],
+        "targetProductPage": "/th/products/furniture-film-laminating-machine/"
+      }
+    ]
+  },
+  {
+    "locale": "id",
+    "path": "/id/blog/",
+    "currency": "IDR/USD",
+    "dateExample": "31 Mei 2026",
+    "topics": [
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC tarpaulin laminating machine buying guide",
+        "primaryKeywords": [
+          "Mesin laminasi terpal PVC produsen",
+          "Mesin laminasi terpal PVC pemasok",
+          "Mesin laminasi terpal PVC harga",
+          "Mesin laminasi terpal PVC penawaran",
+          "Mesin laminasi terpal PVC film PVC, terpal, kain tenda dan flex banner"
+        ],
+        "targetProductPage": "/id/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "specification",
+        "seedTitle": "1600 mm vs 2000 mm PVC tarpaulin laminating line",
+        "primaryKeywords": [
+          "Mesin laminasi terpal PVC produsen",
+          "Mesin laminasi terpal PVC pemasok",
+          "Mesin laminasi terpal PVC harga",
+          "Mesin laminasi terpal PVC penawaran",
+          "Mesin laminasi terpal PVC film PVC, terpal, kain tenda dan flex banner"
+        ],
+        "targetProductPage": "/id/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "comparison",
+        "seedTitle": "Hot oil heating or electric heating for PVC laminating",
+        "primaryKeywords": [
+          "Mesin laminasi terpal PVC produsen",
+          "Mesin laminasi terpal PVC pemasok",
+          "Mesin laminasi terpal PVC harga",
+          "Mesin laminasi terpal PVC penawaran",
+          "Mesin laminasi terpal PVC film PVC, terpal, kain tenda dan flex banner"
+        ],
+        "targetProductPage": "/id/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Flex banner laminating machine quotation checklist",
+        "primaryKeywords": [
+          "Mesin laminasi terpal PVC produsen",
+          "Mesin laminasi terpal PVC pemasok",
+          "Mesin laminasi terpal PVC harga",
+          "Mesin laminasi terpal PVC penawaran",
+          "Mesin laminasi terpal PVC film PVC, terpal, kain tenda dan flex banner"
+        ],
+        "targetProductPage": "/id/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC film gravure printing machine for flexible packaging",
+        "primaryKeywords": [
+          "Mesin cetak gravure produsen",
+          "Mesin cetak gravure pemasok",
+          "Mesin cetak gravure harga",
+          "Mesin cetak gravure penawaran",
+          "Mesin cetak gravure PVC, PE, BOPP, CPP, film fleksibel dan kain"
+        ],
+        "targetProductPage": "/id/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "material",
+        "seedTitle": "BOPP CPP PE film gravure printer material guide",
+        "primaryKeywords": [
+          "Mesin cetak gravure produsen",
+          "Mesin cetak gravure pemasok",
+          "Mesin cetak gravure harga",
+          "Mesin cetak gravure penawaran",
+          "Mesin cetak gravure PVC, PE, BOPP, CPP, film fleksibel dan kain"
+        ],
+        "targetProductPage": "/id/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "comparison",
+        "seedTitle": "Shaftless gravure printing machine buyer questions",
+        "primaryKeywords": [
+          "Mesin cetak gravure produsen",
+          "Mesin cetak gravure pemasok",
+          "Mesin cetak gravure harga",
+          "Mesin cetak gravure penawaran",
+          "Mesin cetak gravure PVC, PE, BOPP, CPP, film fleksibel dan kain"
+        ],
+        "targetProductPage": "/id/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "technical",
+        "seedTitle": "Ink drying and tension control in film printing lines",
+        "primaryKeywords": [
+          "Mesin cetak gravure produsen",
+          "Mesin cetak gravure pemasok",
+          "Mesin cetak gravure harga",
+          "Mesin cetak gravure penawaran",
+          "Mesin cetak gravure PVC, PE, BOPP, CPP, film fleksibel dan kain"
+        ],
+        "targetProductPage": "/id/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "commercial",
+        "seedTitle": "Automatic calender winder for PVC sheet lines",
+        "primaryKeywords": [
+          "Winder untuk lini kalender produsen",
+          "Winder untuk lini kalender pemasok",
+          "Winder untuk lini kalender harga",
+          "Winder untuk lini kalender penawaran",
+          "Winder untuk lini kalender PVC, PE, film semi-kaku dan film kaku"
+        ],
+        "targetProductPage": "/id/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "specification",
+        "seedTitle": "How to choose winding width and roll diameter",
+        "primaryKeywords": [
+          "Winder untuk lini kalender produsen",
+          "Winder untuk lini kalender pemasok",
+          "Winder untuk lini kalender harga",
+          "Winder untuk lini kalender penawaran",
+          "Winder untuk lini kalender PVC, PE, film semi-kaku dan film kaku"
+        ],
+        "targetProductPage": "/id/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "technical",
+        "seedTitle": "Automatic cutter options for center winding machines",
+        "primaryKeywords": [
+          "Winder untuk lini kalender produsen",
+          "Winder untuk lini kalender pemasok",
+          "Winder untuk lini kalender harga",
+          "Winder untuk lini kalender penawaran",
+          "Winder untuk lini kalender PVC, PE, film semi-kaku dan film kaku"
+        ],
+        "targetProductPage": "/id/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "maintenance",
+        "seedTitle": "PVC PE film rewinding machine maintenance checklist",
+        "primaryKeywords": [
+          "Winder untuk lini kalender produsen",
+          "Winder untuk lini kalender pemasok",
+          "Winder untuk lini kalender harga",
+          "Winder untuk lini kalender penawaran",
+          "Winder untuk lini kalender PVC, PE, film semi-kaku dan film kaku"
+        ],
+        "targetProductPage": "/id/products/calender-winder/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "Furniture film laminating machine for wood grain film",
+        "primaryKeywords": [
+          "Mesin laminasi film furnitur produsen",
+          "Mesin laminasi film furnitur pemasok",
+          "Mesin laminasi film furnitur harga",
+          "Mesin laminasi film furnitur penawaran",
+          "Mesin laminasi film furnitur film dekoratif PVC, film motif kayu dan film edge banding"
+        ],
+        "targetProductPage": "/id/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "layout",
+        "seedTitle": "PVC decorative film line layout checklist",
+        "primaryKeywords": [
+          "Mesin laminasi film furnitur produsen",
+          "Mesin laminasi film furnitur pemasok",
+          "Mesin laminasi film furnitur harga",
+          "Mesin laminasi film furnitur penawaran",
+          "Mesin laminasi film furnitur film dekoratif PVC, film motif kayu dan film edge banding"
+        ],
+        "targetProductPage": "/id/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "application",
+        "seedTitle": "Edge banding film laminating and rewinding options",
+        "primaryKeywords": [
+          "Mesin laminasi film furnitur produsen",
+          "Mesin laminasi film furnitur pemasok",
+          "Mesin laminasi film furnitur harga",
+          "Mesin laminasi film furnitur penawaran",
+          "Mesin laminasi film furnitur film dekoratif PVC, film motif kayu dan film edge banding"
+        ],
+        "targetProductPage": "/id/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Furniture film laminating line quotation factors",
+        "primaryKeywords": [
+          "Mesin laminasi film furnitur produsen",
+          "Mesin laminasi film furnitur pemasok",
+          "Mesin laminasi film furnitur harga",
+          "Mesin laminasi film furnitur penawaran",
+          "Mesin laminasi film furnitur film dekoratif PVC, film motif kayu dan film edge banding"
+        ],
+        "targetProductPage": "/id/products/furniture-film-laminating-machine/"
+      }
+    ]
+  },
+  {
+    "locale": "hi",
+    "path": "/hi/blog/",
+    "currency": "INR/USD",
+    "dateExample": "31 मई 2026",
+    "topics": [
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC tarpaulin laminating machine buying guide",
+        "primaryKeywords": [
+          "PVC तिरपाल लैमिनेशन मशीन निर्माता",
+          "PVC तिरपाल लैमिनेशन मशीन सप्लायर",
+          "PVC तिरपाल लैमिनेशन मशीन कीमत",
+          "PVC तिरपाल लैमिनेशन मशीन कोटेशन",
+          "PVC तिरपाल लैमिनेशन मशीन PVC फिल्म, तिरपाल, टेंट कपड़ा और फ्लेक्स बैनर"
+        ],
+        "targetProductPage": "/hi/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "specification",
+        "seedTitle": "1600 mm vs 2000 mm PVC tarpaulin laminating line",
+        "primaryKeywords": [
+          "PVC तिरपाल लैमिनेशन मशीन निर्माता",
+          "PVC तिरपाल लैमिनेशन मशीन सप्लायर",
+          "PVC तिरपाल लैमिनेशन मशीन कीमत",
+          "PVC तिरपाल लैमिनेशन मशीन कोटेशन",
+          "PVC तिरपाल लैमिनेशन मशीन PVC फिल्म, तिरपाल, टेंट कपड़ा और फ्लेक्स बैनर"
+        ],
+        "targetProductPage": "/hi/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "comparison",
+        "seedTitle": "Hot oil heating or electric heating for PVC laminating",
+        "primaryKeywords": [
+          "PVC तिरपाल लैमिनेशन मशीन निर्माता",
+          "PVC तिरपाल लैमिनेशन मशीन सप्लायर",
+          "PVC तिरपाल लैमिनेशन मशीन कीमत",
+          "PVC तिरपाल लैमिनेशन मशीन कोटेशन",
+          "PVC तिरपाल लैमिनेशन मशीन PVC फिल्म, तिरपाल, टेंट कपड़ा और फ्लेक्स बैनर"
+        ],
+        "targetProductPage": "/hi/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Flex banner laminating machine quotation checklist",
+        "primaryKeywords": [
+          "PVC तिरपाल लैमिनेशन मशीन निर्माता",
+          "PVC तिरपाल लैमिनेशन मशीन सप्लायर",
+          "PVC तिरपाल लैमिनेशन मशीन कीमत",
+          "PVC तिरपाल लैमिनेशन मशीन कोटेशन",
+          "PVC तिरपाल लैमिनेशन मशीन PVC फिल्म, तिरपाल, टेंट कपड़ा और फ्लेक्स बैनर"
+        ],
+        "targetProductPage": "/hi/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC film gravure printing machine for flexible packaging",
+        "primaryKeywords": [
+          "ग्रेव्योर प्रिंटिंग मशीन निर्माता",
+          "ग्रेव्योर प्रिंटिंग मशीन सप्लायर",
+          "ग्रेव्योर प्रिंटिंग मशीन कीमत",
+          "ग्रेव्योर प्रिंटिंग मशीन कोटेशन",
+          "ग्रेव्योर प्रिंटिंग मशीन PVC, PE, BOPP, CPP, फ्लेक्सिबल फिल्म और कपड़ा"
+        ],
+        "targetProductPage": "/hi/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "material",
+        "seedTitle": "BOPP CPP PE film gravure printer material guide",
+        "primaryKeywords": [
+          "ग्रेव्योर प्रिंटिंग मशीन निर्माता",
+          "ग्रेव्योर प्रिंटिंग मशीन सप्लायर",
+          "ग्रेव्योर प्रिंटिंग मशीन कीमत",
+          "ग्रेव्योर प्रिंटिंग मशीन कोटेशन",
+          "ग्रेव्योर प्रिंटिंग मशीन PVC, PE, BOPP, CPP, फ्लेक्सिबल फिल्म और कपड़ा"
+        ],
+        "targetProductPage": "/hi/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "comparison",
+        "seedTitle": "Shaftless gravure printing machine buyer questions",
+        "primaryKeywords": [
+          "ग्रेव्योर प्रिंटिंग मशीन निर्माता",
+          "ग्रेव्योर प्रिंटिंग मशीन सप्लायर",
+          "ग्रेव्योर प्रिंटिंग मशीन कीमत",
+          "ग्रेव्योर प्रिंटिंग मशीन कोटेशन",
+          "ग्रेव्योर प्रिंटिंग मशीन PVC, PE, BOPP, CPP, फ्लेक्सिबल फिल्म और कपड़ा"
+        ],
+        "targetProductPage": "/hi/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "technical",
+        "seedTitle": "Ink drying and tension control in film printing lines",
+        "primaryKeywords": [
+          "ग्रेव्योर प्रिंटिंग मशीन निर्माता",
+          "ग्रेव्योर प्रिंटिंग मशीन सप्लायर",
+          "ग्रेव्योर प्रिंटिंग मशीन कीमत",
+          "ग्रेव्योर प्रिंटिंग मशीन कोटेशन",
+          "ग्रेव्योर प्रिंटिंग मशीन PVC, PE, BOPP, CPP, फ्लेक्सिबल फिल्म और कपड़ा"
+        ],
+        "targetProductPage": "/hi/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "commercial",
+        "seedTitle": "Automatic calender winder for PVC sheet lines",
+        "primaryKeywords": [
+          "कैलेंडर लाइन वाइंडर निर्माता",
+          "कैलेंडर लाइन वाइंडर सप्लायर",
+          "कैलेंडर लाइन वाइंडर कीमत",
+          "कैलेंडर लाइन वाइंडर कोटेशन",
+          "कैलेंडर लाइन वाइंडर PVC, PE, सेमी-रिजिड फिल्म और रिजिड फिल्म"
+        ],
+        "targetProductPage": "/hi/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "specification",
+        "seedTitle": "How to choose winding width and roll diameter",
+        "primaryKeywords": [
+          "कैलेंडर लाइन वाइंडर निर्माता",
+          "कैलेंडर लाइन वाइंडर सप्लायर",
+          "कैलेंडर लाइन वाइंडर कीमत",
+          "कैलेंडर लाइन वाइंडर कोटेशन",
+          "कैलेंडर लाइन वाइंडर PVC, PE, सेमी-रिजिड फिल्म और रिजिड फिल्म"
+        ],
+        "targetProductPage": "/hi/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "technical",
+        "seedTitle": "Automatic cutter options for center winding machines",
+        "primaryKeywords": [
+          "कैलेंडर लाइन वाइंडर निर्माता",
+          "कैलेंडर लाइन वाइंडर सप्लायर",
+          "कैलेंडर लाइन वाइंडर कीमत",
+          "कैलेंडर लाइन वाइंडर कोटेशन",
+          "कैलेंडर लाइन वाइंडर PVC, PE, सेमी-रिजिड फिल्म और रिजिड फिल्म"
+        ],
+        "targetProductPage": "/hi/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "maintenance",
+        "seedTitle": "PVC PE film rewinding machine maintenance checklist",
+        "primaryKeywords": [
+          "कैलेंडर लाइन वाइंडर निर्माता",
+          "कैलेंडर लाइन वाइंडर सप्लायर",
+          "कैलेंडर लाइन वाइंडर कीमत",
+          "कैलेंडर लाइन वाइंडर कोटेशन",
+          "कैलेंडर लाइन वाइंडर PVC, PE, सेमी-रिजिड फिल्म और रिजिड फिल्म"
+        ],
+        "targetProductPage": "/hi/products/calender-winder/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "Furniture film laminating machine for wood grain film",
+        "primaryKeywords": [
+          "फर्नीचर फिल्म लैमिनेशन मशीन निर्माता",
+          "फर्नीचर फिल्म लैमिनेशन मशीन सप्लायर",
+          "फर्नीचर फिल्म लैमिनेशन मशीन कीमत",
+          "फर्नीचर फिल्म लैमिनेशन मशीन कोटेशन",
+          "फर्नीचर फिल्म लैमिनेशन मशीन PVC डेकोरेटिव फिल्म, वुड ग्रेन फिल्म और एज बैंडिंग फिल्म"
+        ],
+        "targetProductPage": "/hi/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "layout",
+        "seedTitle": "PVC decorative film line layout checklist",
+        "primaryKeywords": [
+          "फर्नीचर फिल्म लैमिनेशन मशीन निर्माता",
+          "फर्नीचर फिल्म लैमिनेशन मशीन सप्लायर",
+          "फर्नीचर फिल्म लैमिनेशन मशीन कीमत",
+          "फर्नीचर फिल्म लैमिनेशन मशीन कोटेशन",
+          "फर्नीचर फिल्म लैमिनेशन मशीन PVC डेकोरेटिव फिल्म, वुड ग्रेन फिल्म और एज बैंडिंग फिल्म"
+        ],
+        "targetProductPage": "/hi/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "application",
+        "seedTitle": "Edge banding film laminating and rewinding options",
+        "primaryKeywords": [
+          "फर्नीचर फिल्म लैमिनेशन मशीन निर्माता",
+          "फर्नीचर फिल्म लैमिनेशन मशीन सप्लायर",
+          "फर्नीचर फिल्म लैमिनेशन मशीन कीमत",
+          "फर्नीचर फिल्म लैमिनेशन मशीन कोटेशन",
+          "फर्नीचर फिल्म लैमिनेशन मशीन PVC डेकोरेटिव फिल्म, वुड ग्रेन फिल्म और एज बैंडिंग फिल्म"
+        ],
+        "targetProductPage": "/hi/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Furniture film laminating line quotation factors",
+        "primaryKeywords": [
+          "फर्नीचर फिल्म लैमिनेशन मशीन निर्माता",
+          "फर्नीचर फिल्म लैमिनेशन मशीन सप्लायर",
+          "फर्नीचर फिल्म लैमिनेशन मशीन कीमत",
+          "फर्नीचर फिल्म लैमिनेशन मशीन कोटेशन",
+          "फर्नीचर फिल्म लैमिनेशन मशीन PVC डेकोरेटिव फिल्म, वुड ग्रेन फिल्म और एज बैंडिंग फिल्म"
+        ],
+        "targetProductPage": "/hi/products/furniture-film-laminating-machine/"
+      }
+    ]
+  },
+  {
+    "locale": "ms",
+    "path": "/ms/blog/",
+    "currency": "MYR/USD",
+    "dateExample": "31 Mei 2026",
+    "topics": [
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC tarpaulin laminating machine buying guide",
+        "primaryKeywords": [
+          "Mesin laminasi tarpaulin PVC pengeluar",
+          "Mesin laminasi tarpaulin PVC pembekal",
+          "Mesin laminasi tarpaulin PVC harga",
+          "Mesin laminasi tarpaulin PVC sebut harga",
+          "Mesin laminasi tarpaulin PVC filem PVC, tarpaulin, kain khemah dan flex banner"
+        ],
+        "targetProductPage": "/ms/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "specification",
+        "seedTitle": "1600 mm vs 2000 mm PVC tarpaulin laminating line",
+        "primaryKeywords": [
+          "Mesin laminasi tarpaulin PVC pengeluar",
+          "Mesin laminasi tarpaulin PVC pembekal",
+          "Mesin laminasi tarpaulin PVC harga",
+          "Mesin laminasi tarpaulin PVC sebut harga",
+          "Mesin laminasi tarpaulin PVC filem PVC, tarpaulin, kain khemah dan flex banner"
+        ],
+        "targetProductPage": "/ms/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "comparison",
+        "seedTitle": "Hot oil heating or electric heating for PVC laminating",
+        "primaryKeywords": [
+          "Mesin laminasi tarpaulin PVC pengeluar",
+          "Mesin laminasi tarpaulin PVC pembekal",
+          "Mesin laminasi tarpaulin PVC harga",
+          "Mesin laminasi tarpaulin PVC sebut harga",
+          "Mesin laminasi tarpaulin PVC filem PVC, tarpaulin, kain khemah dan flex banner"
+        ],
+        "targetProductPage": "/ms/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Flex banner laminating machine quotation checklist",
+        "primaryKeywords": [
+          "Mesin laminasi tarpaulin PVC pengeluar",
+          "Mesin laminasi tarpaulin PVC pembekal",
+          "Mesin laminasi tarpaulin PVC harga",
+          "Mesin laminasi tarpaulin PVC sebut harga",
+          "Mesin laminasi tarpaulin PVC filem PVC, tarpaulin, kain khemah dan flex banner"
+        ],
+        "targetProductPage": "/ms/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC film gravure printing machine for flexible packaging",
+        "primaryKeywords": [
+          "Mesin cetak gravure pengeluar",
+          "Mesin cetak gravure pembekal",
+          "Mesin cetak gravure harga",
+          "Mesin cetak gravure sebut harga",
+          "Mesin cetak gravure PVC, PE, BOPP, CPP, filem fleksibel dan kain"
+        ],
+        "targetProductPage": "/ms/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "material",
+        "seedTitle": "BOPP CPP PE film gravure printer material guide",
+        "primaryKeywords": [
+          "Mesin cetak gravure pengeluar",
+          "Mesin cetak gravure pembekal",
+          "Mesin cetak gravure harga",
+          "Mesin cetak gravure sebut harga",
+          "Mesin cetak gravure PVC, PE, BOPP, CPP, filem fleksibel dan kain"
+        ],
+        "targetProductPage": "/ms/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "comparison",
+        "seedTitle": "Shaftless gravure printing machine buyer questions",
+        "primaryKeywords": [
+          "Mesin cetak gravure pengeluar",
+          "Mesin cetak gravure pembekal",
+          "Mesin cetak gravure harga",
+          "Mesin cetak gravure sebut harga",
+          "Mesin cetak gravure PVC, PE, BOPP, CPP, filem fleksibel dan kain"
+        ],
+        "targetProductPage": "/ms/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "technical",
+        "seedTitle": "Ink drying and tension control in film printing lines",
+        "primaryKeywords": [
+          "Mesin cetak gravure pengeluar",
+          "Mesin cetak gravure pembekal",
+          "Mesin cetak gravure harga",
+          "Mesin cetak gravure sebut harga",
+          "Mesin cetak gravure PVC, PE, BOPP, CPP, filem fleksibel dan kain"
+        ],
+        "targetProductPage": "/ms/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "commercial",
+        "seedTitle": "Automatic calender winder for PVC sheet lines",
+        "primaryKeywords": [
+          "Penggulung talian kalendar pengeluar",
+          "Penggulung talian kalendar pembekal",
+          "Penggulung talian kalendar harga",
+          "Penggulung talian kalendar sebut harga",
+          "Penggulung talian kalendar PVC, PE, filem separa tegar dan filem tegar"
+        ],
+        "targetProductPage": "/ms/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "specification",
+        "seedTitle": "How to choose winding width and roll diameter",
+        "primaryKeywords": [
+          "Penggulung talian kalendar pengeluar",
+          "Penggulung talian kalendar pembekal",
+          "Penggulung talian kalendar harga",
+          "Penggulung talian kalendar sebut harga",
+          "Penggulung talian kalendar PVC, PE, filem separa tegar dan filem tegar"
+        ],
+        "targetProductPage": "/ms/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "technical",
+        "seedTitle": "Automatic cutter options for center winding machines",
+        "primaryKeywords": [
+          "Penggulung talian kalendar pengeluar",
+          "Penggulung talian kalendar pembekal",
+          "Penggulung talian kalendar harga",
+          "Penggulung talian kalendar sebut harga",
+          "Penggulung talian kalendar PVC, PE, filem separa tegar dan filem tegar"
+        ],
+        "targetProductPage": "/ms/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "maintenance",
+        "seedTitle": "PVC PE film rewinding machine maintenance checklist",
+        "primaryKeywords": [
+          "Penggulung talian kalendar pengeluar",
+          "Penggulung talian kalendar pembekal",
+          "Penggulung talian kalendar harga",
+          "Penggulung talian kalendar sebut harga",
+          "Penggulung talian kalendar PVC, PE, filem separa tegar dan filem tegar"
+        ],
+        "targetProductPage": "/ms/products/calender-winder/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "Furniture film laminating machine for wood grain film",
+        "primaryKeywords": [
+          "Mesin laminasi filem perabot pengeluar",
+          "Mesin laminasi filem perabot pembekal",
+          "Mesin laminasi filem perabot harga",
+          "Mesin laminasi filem perabot sebut harga",
+          "Mesin laminasi filem perabot filem dekoratif PVC, filem corak kayu dan filem edge banding"
+        ],
+        "targetProductPage": "/ms/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "layout",
+        "seedTitle": "PVC decorative film line layout checklist",
+        "primaryKeywords": [
+          "Mesin laminasi filem perabot pengeluar",
+          "Mesin laminasi filem perabot pembekal",
+          "Mesin laminasi filem perabot harga",
+          "Mesin laminasi filem perabot sebut harga",
+          "Mesin laminasi filem perabot filem dekoratif PVC, filem corak kayu dan filem edge banding"
+        ],
+        "targetProductPage": "/ms/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "application",
+        "seedTitle": "Edge banding film laminating and rewinding options",
+        "primaryKeywords": [
+          "Mesin laminasi filem perabot pengeluar",
+          "Mesin laminasi filem perabot pembekal",
+          "Mesin laminasi filem perabot harga",
+          "Mesin laminasi filem perabot sebut harga",
+          "Mesin laminasi filem perabot filem dekoratif PVC, filem corak kayu dan filem edge banding"
+        ],
+        "targetProductPage": "/ms/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Furniture film laminating line quotation factors",
+        "primaryKeywords": [
+          "Mesin laminasi filem perabot pengeluar",
+          "Mesin laminasi filem perabot pembekal",
+          "Mesin laminasi filem perabot harga",
+          "Mesin laminasi filem perabot sebut harga",
+          "Mesin laminasi filem perabot filem dekoratif PVC, filem corak kayu dan filem edge banding"
+        ],
+        "targetProductPage": "/ms/products/furniture-film-laminating-machine/"
+      }
+    ]
+  },
+  {
+    "locale": "nl",
+    "path": "/nl/blog/",
+    "currency": "EUR",
+    "dateExample": "31 mei 2026",
+    "topics": [
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC tarpaulin laminating machine buying guide",
+        "primaryKeywords": [
+          "PVC-dekzeil lamineermachine fabrikant",
+          "PVC-dekzeil lamineermachine leverancier",
+          "PVC-dekzeil lamineermachine prijs",
+          "PVC-dekzeil lamineermachine offerte",
+          "PVC-dekzeil lamineermachine PVC-folie, dekzeil, tentdoek en flexbanner"
+        ],
+        "targetProductPage": "/nl/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "specification",
+        "seedTitle": "1600 mm vs 2000 mm PVC tarpaulin laminating line",
+        "primaryKeywords": [
+          "PVC-dekzeil lamineermachine fabrikant",
+          "PVC-dekzeil lamineermachine leverancier",
+          "PVC-dekzeil lamineermachine prijs",
+          "PVC-dekzeil lamineermachine offerte",
+          "PVC-dekzeil lamineermachine PVC-folie, dekzeil, tentdoek en flexbanner"
+        ],
+        "targetProductPage": "/nl/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "comparison",
+        "seedTitle": "Hot oil heating or electric heating for PVC laminating",
+        "primaryKeywords": [
+          "PVC-dekzeil lamineermachine fabrikant",
+          "PVC-dekzeil lamineermachine leverancier",
+          "PVC-dekzeil lamineermachine prijs",
+          "PVC-dekzeil lamineermachine offerte",
+          "PVC-dekzeil lamineermachine PVC-folie, dekzeil, tentdoek en flexbanner"
+        ],
+        "targetProductPage": "/nl/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Flex banner laminating machine quotation checklist",
+        "primaryKeywords": [
+          "PVC-dekzeil lamineermachine fabrikant",
+          "PVC-dekzeil lamineermachine leverancier",
+          "PVC-dekzeil lamineermachine prijs",
+          "PVC-dekzeil lamineermachine offerte",
+          "PVC-dekzeil lamineermachine PVC-folie, dekzeil, tentdoek en flexbanner"
+        ],
+        "targetProductPage": "/nl/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC film gravure printing machine for flexible packaging",
+        "primaryKeywords": [
+          "Rotogravure drukmachine fabrikant",
+          "Rotogravure drukmachine leverancier",
+          "Rotogravure drukmachine prijs",
+          "Rotogravure drukmachine offerte",
+          "Rotogravure drukmachine PVC, PE, BOPP, CPP, flexibele folie en doek"
+        ],
+        "targetProductPage": "/nl/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "material",
+        "seedTitle": "BOPP CPP PE film gravure printer material guide",
+        "primaryKeywords": [
+          "Rotogravure drukmachine fabrikant",
+          "Rotogravure drukmachine leverancier",
+          "Rotogravure drukmachine prijs",
+          "Rotogravure drukmachine offerte",
+          "Rotogravure drukmachine PVC, PE, BOPP, CPP, flexibele folie en doek"
+        ],
+        "targetProductPage": "/nl/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "comparison",
+        "seedTitle": "Shaftless gravure printing machine buyer questions",
+        "primaryKeywords": [
+          "Rotogravure drukmachine fabrikant",
+          "Rotogravure drukmachine leverancier",
+          "Rotogravure drukmachine prijs",
+          "Rotogravure drukmachine offerte",
+          "Rotogravure drukmachine PVC, PE, BOPP, CPP, flexibele folie en doek"
+        ],
+        "targetProductPage": "/nl/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "technical",
+        "seedTitle": "Ink drying and tension control in film printing lines",
+        "primaryKeywords": [
+          "Rotogravure drukmachine fabrikant",
+          "Rotogravure drukmachine leverancier",
+          "Rotogravure drukmachine prijs",
+          "Rotogravure drukmachine offerte",
+          "Rotogravure drukmachine PVC, PE, BOPP, CPP, flexibele folie en doek"
+        ],
+        "targetProductPage": "/nl/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "commercial",
+        "seedTitle": "Automatic calender winder for PVC sheet lines",
+        "primaryKeywords": [
+          "Wikkelaar voor kalanderlijn fabrikant",
+          "Wikkelaar voor kalanderlijn leverancier",
+          "Wikkelaar voor kalanderlijn prijs",
+          "Wikkelaar voor kalanderlijn offerte",
+          "Wikkelaar voor kalanderlijn PVC, PE, halfstijve folie en stijve folie"
+        ],
+        "targetProductPage": "/nl/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "specification",
+        "seedTitle": "How to choose winding width and roll diameter",
+        "primaryKeywords": [
+          "Wikkelaar voor kalanderlijn fabrikant",
+          "Wikkelaar voor kalanderlijn leverancier",
+          "Wikkelaar voor kalanderlijn prijs",
+          "Wikkelaar voor kalanderlijn offerte",
+          "Wikkelaar voor kalanderlijn PVC, PE, halfstijve folie en stijve folie"
+        ],
+        "targetProductPage": "/nl/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "technical",
+        "seedTitle": "Automatic cutter options for center winding machines",
+        "primaryKeywords": [
+          "Wikkelaar voor kalanderlijn fabrikant",
+          "Wikkelaar voor kalanderlijn leverancier",
+          "Wikkelaar voor kalanderlijn prijs",
+          "Wikkelaar voor kalanderlijn offerte",
+          "Wikkelaar voor kalanderlijn PVC, PE, halfstijve folie en stijve folie"
+        ],
+        "targetProductPage": "/nl/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "maintenance",
+        "seedTitle": "PVC PE film rewinding machine maintenance checklist",
+        "primaryKeywords": [
+          "Wikkelaar voor kalanderlijn fabrikant",
+          "Wikkelaar voor kalanderlijn leverancier",
+          "Wikkelaar voor kalanderlijn prijs",
+          "Wikkelaar voor kalanderlijn offerte",
+          "Wikkelaar voor kalanderlijn PVC, PE, halfstijve folie en stijve folie"
+        ],
+        "targetProductPage": "/nl/products/calender-winder/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "Furniture film laminating machine for wood grain film",
+        "primaryKeywords": [
+          "Lamineermachine voor meubelfolie fabrikant",
+          "Lamineermachine voor meubelfolie leverancier",
+          "Lamineermachine voor meubelfolie prijs",
+          "Lamineermachine voor meubelfolie offerte",
+          "Lamineermachine voor meubelfolie PVC-decorfolie, houtnerffolie en kantenbandfolie"
+        ],
+        "targetProductPage": "/nl/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "layout",
+        "seedTitle": "PVC decorative film line layout checklist",
+        "primaryKeywords": [
+          "Lamineermachine voor meubelfolie fabrikant",
+          "Lamineermachine voor meubelfolie leverancier",
+          "Lamineermachine voor meubelfolie prijs",
+          "Lamineermachine voor meubelfolie offerte",
+          "Lamineermachine voor meubelfolie PVC-decorfolie, houtnerffolie en kantenbandfolie"
+        ],
+        "targetProductPage": "/nl/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "application",
+        "seedTitle": "Edge banding film laminating and rewinding options",
+        "primaryKeywords": [
+          "Lamineermachine voor meubelfolie fabrikant",
+          "Lamineermachine voor meubelfolie leverancier",
+          "Lamineermachine voor meubelfolie prijs",
+          "Lamineermachine voor meubelfolie offerte",
+          "Lamineermachine voor meubelfolie PVC-decorfolie, houtnerffolie en kantenbandfolie"
+        ],
+        "targetProductPage": "/nl/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Furniture film laminating line quotation factors",
+        "primaryKeywords": [
+          "Lamineermachine voor meubelfolie fabrikant",
+          "Lamineermachine voor meubelfolie leverancier",
+          "Lamineermachine voor meubelfolie prijs",
+          "Lamineermachine voor meubelfolie offerte",
+          "Lamineermachine voor meubelfolie PVC-decorfolie, houtnerffolie en kantenbandfolie"
+        ],
+        "targetProductPage": "/nl/products/furniture-film-laminating-machine/"
+      }
+    ]
+  },
+  {
+    "locale": "bn",
+    "path": "/bn/blog/",
+    "currency": "BDT/USD",
+    "dateExample": "৩১ মে ২০২৬",
+    "topics": [
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC tarpaulin laminating machine buying guide",
+        "primaryKeywords": [
+          "PVC ত্রিপল ল্যামিনেশন মেশিন প্রস্তুতকারক",
+          "PVC ত্রিপল ল্যামিনেশন মেশিন সরবরাহকারী",
+          "PVC ত্রিপল ল্যামিনেশন মেশিন দাম",
+          "PVC ত্রিপল ল্যামিনেশন মেশিন কোটেশন",
+          "PVC ত্রিপল ল্যামিনেশন মেশিন PVC ফিল্ম, ত্রিপল, তাঁবুর কাপড় ও ফ্লেক্স ব্যানার"
+        ],
+        "targetProductPage": "/bn/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "specification",
+        "seedTitle": "1600 mm vs 2000 mm PVC tarpaulin laminating line",
+        "primaryKeywords": [
+          "PVC ত্রিপল ল্যামিনেশন মেশিন প্রস্তুতকারক",
+          "PVC ত্রিপল ল্যামিনেশন মেশিন সরবরাহকারী",
+          "PVC ত্রিপল ল্যামিনেশন মেশিন দাম",
+          "PVC ত্রিপল ল্যামিনেশন মেশিন কোটেশন",
+          "PVC ত্রিপল ল্যামিনেশন মেশিন PVC ফিল্ম, ত্রিপল, তাঁবুর কাপড় ও ফ্লেক্স ব্যানার"
+        ],
+        "targetProductPage": "/bn/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "comparison",
+        "seedTitle": "Hot oil heating or electric heating for PVC laminating",
+        "primaryKeywords": [
+          "PVC ত্রিপল ল্যামিনেশন মেশিন প্রস্তুতকারক",
+          "PVC ত্রিপল ল্যামিনেশন মেশিন সরবরাহকারী",
+          "PVC ত্রিপল ল্যামিনেশন মেশিন দাম",
+          "PVC ত্রিপল ল্যামিনেশন মেশিন কোটেশন",
+          "PVC ত্রিপল ল্যামিনেশন মেশিন PVC ফিল্ম, ত্রিপল, তাঁবুর কাপড় ও ফ্লেক্স ব্যানার"
+        ],
+        "targetProductPage": "/bn/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Flex banner laminating machine quotation checklist",
+        "primaryKeywords": [
+          "PVC ত্রিপল ল্যামিনেশন মেশিন প্রস্তুতকারক",
+          "PVC ত্রিপল ল্যামিনেশন মেশিন সরবরাহকারী",
+          "PVC ত্রিপল ল্যামিনেশন মেশিন দাম",
+          "PVC ত্রিপল ল্যামিনেশন মেশিন কোটেশন",
+          "PVC ত্রিপল ল্যামিনেশন মেশিন PVC ফিল্ম, ত্রিপল, তাঁবুর কাপড় ও ফ্লেক্স ব্যানার"
+        ],
+        "targetProductPage": "/bn/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC film gravure printing machine for flexible packaging",
+        "primaryKeywords": [
+          "গ্র্যাভিউর প্রিন্টিং মেশিন প্রস্তুতকারক",
+          "গ্র্যাভিউর প্রিন্টিং মেশিন সরবরাহকারী",
+          "গ্র্যাভিউর প্রিন্টিং মেশিন দাম",
+          "গ্র্যাভিউর প্রিন্টিং মেশিন কোটেশন",
+          "গ্র্যাভিউর প্রিন্টিং মেশিন PVC, PE, BOPP, CPP, ফ্লেক্সিবল ফিল্ম ও কাপড়"
+        ],
+        "targetProductPage": "/bn/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "material",
+        "seedTitle": "BOPP CPP PE film gravure printer material guide",
+        "primaryKeywords": [
+          "গ্র্যাভিউর প্রিন্টিং মেশিন প্রস্তুতকারক",
+          "গ্র্যাভিউর প্রিন্টিং মেশিন সরবরাহকারী",
+          "গ্র্যাভিউর প্রিন্টিং মেশিন দাম",
+          "গ্র্যাভিউর প্রিন্টিং মেশিন কোটেশন",
+          "গ্র্যাভিউর প্রিন্টিং মেশিন PVC, PE, BOPP, CPP, ফ্লেক্সিবল ফিল্ম ও কাপড়"
+        ],
+        "targetProductPage": "/bn/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "comparison",
+        "seedTitle": "Shaftless gravure printing machine buyer questions",
+        "primaryKeywords": [
+          "গ্র্যাভিউর প্রিন্টিং মেশিন প্রস্তুতকারক",
+          "গ্র্যাভিউর প্রিন্টিং মেশিন সরবরাহকারী",
+          "গ্র্যাভিউর প্রিন্টিং মেশিন দাম",
+          "গ্র্যাভিউর প্রিন্টিং মেশিন কোটেশন",
+          "গ্র্যাভিউর প্রিন্টিং মেশিন PVC, PE, BOPP, CPP, ফ্লেক্সিবল ফিল্ম ও কাপড়"
+        ],
+        "targetProductPage": "/bn/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "technical",
+        "seedTitle": "Ink drying and tension control in film printing lines",
+        "primaryKeywords": [
+          "গ্র্যাভিউর প্রিন্টিং মেশিন প্রস্তুতকারক",
+          "গ্র্যাভিউর প্রিন্টিং মেশিন সরবরাহকারী",
+          "গ্র্যাভিউর প্রিন্টিং মেশিন দাম",
+          "গ্র্যাভিউর প্রিন্টিং মেশিন কোটেশন",
+          "গ্র্যাভিউর প্রিন্টিং মেশিন PVC, PE, BOPP, CPP, ফ্লেক্সিবল ফিল্ম ও কাপড়"
+        ],
+        "targetProductPage": "/bn/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "commercial",
+        "seedTitle": "Automatic calender winder for PVC sheet lines",
+        "primaryKeywords": [
+          "ক্যালেন্ডার লাইন উইন্ডার প্রস্তুতকারক",
+          "ক্যালেন্ডার লাইন উইন্ডার সরবরাহকারী",
+          "ক্যালেন্ডার লাইন উইন্ডার দাম",
+          "ক্যালেন্ডার লাইন উইন্ডার কোটেশন",
+          "ক্যালেন্ডার লাইন উইন্ডার PVC, PE, সেমি-রিজিড ফিল্ম ও রিজিড ফিল্ম"
+        ],
+        "targetProductPage": "/bn/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "specification",
+        "seedTitle": "How to choose winding width and roll diameter",
+        "primaryKeywords": [
+          "ক্যালেন্ডার লাইন উইন্ডার প্রস্তুতকারক",
+          "ক্যালেন্ডার লাইন উইন্ডার সরবরাহকারী",
+          "ক্যালেন্ডার লাইন উইন্ডার দাম",
+          "ক্যালেন্ডার লাইন উইন্ডার কোটেশন",
+          "ক্যালেন্ডার লাইন উইন্ডার PVC, PE, সেমি-রিজিড ফিল্ম ও রিজিড ফিল্ম"
+        ],
+        "targetProductPage": "/bn/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "technical",
+        "seedTitle": "Automatic cutter options for center winding machines",
+        "primaryKeywords": [
+          "ক্যালেন্ডার লাইন উইন্ডার প্রস্তুতকারক",
+          "ক্যালেন্ডার লাইন উইন্ডার সরবরাহকারী",
+          "ক্যালেন্ডার লাইন উইন্ডার দাম",
+          "ক্যালেন্ডার লাইন উইন্ডার কোটেশন",
+          "ক্যালেন্ডার লাইন উইন্ডার PVC, PE, সেমি-রিজিড ফিল্ম ও রিজিড ফিল্ম"
+        ],
+        "targetProductPage": "/bn/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "maintenance",
+        "seedTitle": "PVC PE film rewinding machine maintenance checklist",
+        "primaryKeywords": [
+          "ক্যালেন্ডার লাইন উইন্ডার প্রস্তুতকারক",
+          "ক্যালেন্ডার লাইন উইন্ডার সরবরাহকারী",
+          "ক্যালেন্ডার লাইন উইন্ডার দাম",
+          "ক্যালেন্ডার লাইন উইন্ডার কোটেশন",
+          "ক্যালেন্ডার লাইন উইন্ডার PVC, PE, সেমি-রিজিড ফিল্ম ও রিজিড ফিল্ম"
+        ],
+        "targetProductPage": "/bn/products/calender-winder/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "Furniture film laminating machine for wood grain film",
+        "primaryKeywords": [
+          "ফার্নিচার ফিল্ম ল্যামিনেশন মেশিন প্রস্তুতকারক",
+          "ফার্নিচার ফিল্ম ল্যামিনেশন মেশিন সরবরাহকারী",
+          "ফার্নিচার ফিল্ম ল্যামিনেশন মেশিন দাম",
+          "ফার্নিচার ফিল্ম ল্যামিনেশন মেশিন কোটেশন",
+          "ফার্নিচার ফিল্ম ল্যামিনেশন মেশিন PVC ডেকোরেটিভ ফিল্ম, উড গ্রেইন ফিল্ম ও এজ ব্যান্ডিং ফিল্ম"
+        ],
+        "targetProductPage": "/bn/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "layout",
+        "seedTitle": "PVC decorative film line layout checklist",
+        "primaryKeywords": [
+          "ফার্নিচার ফিল্ম ল্যামিনেশন মেশিন প্রস্তুতকারক",
+          "ফার্নিচার ফিল্ম ল্যামিনেশন মেশিন সরবরাহকারী",
+          "ফার্নিচার ফিল্ম ল্যামিনেশন মেশিন দাম",
+          "ফার্নিচার ফিল্ম ল্যামিনেশন মেশিন কোটেশন",
+          "ফার্নিচার ফিল্ম ল্যামিনেশন মেশিন PVC ডেকোরেটিভ ফিল্ম, উড গ্রেইন ফিল্ম ও এজ ব্যান্ডিং ফিল্ম"
+        ],
+        "targetProductPage": "/bn/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "application",
+        "seedTitle": "Edge banding film laminating and rewinding options",
+        "primaryKeywords": [
+          "ফার্নিচার ফিল্ম ল্যামিনেশন মেশিন প্রস্তুতকারক",
+          "ফার্নিচার ফিল্ম ল্যামিনেশন মেশিন সরবরাহকারী",
+          "ফার্নিচার ফিল্ম ল্যামিনেশন মেশিন দাম",
+          "ফার্নিচার ফিল্ম ল্যামিনেশন মেশিন কোটেশন",
+          "ফার্নিচার ফিল্ম ল্যামিনেশন মেশিন PVC ডেকোরেটিভ ফিল্ম, উড গ্রেইন ফিল্ম ও এজ ব্যান্ডিং ফিল্ম"
+        ],
+        "targetProductPage": "/bn/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Furniture film laminating line quotation factors",
+        "primaryKeywords": [
+          "ফার্নিচার ফিল্ম ল্যামিনেশন মেশিন প্রস্তুতকারক",
+          "ফার্নিচার ফিল্ম ল্যামিনেশন মেশিন সরবরাহকারী",
+          "ফার্নিচার ফিল্ম ল্যামিনেশন মেশিন দাম",
+          "ফার্নিচার ফিল্ম ল্যামিনেশন মেশিন কোটেশন",
+          "ফার্নিচার ফিল্ম ল্যামিনেশন মেশিন PVC ডেকোরেটিভ ফিল্ম, উড গ্রেইন ফিল্ম ও এজ ব্যান্ডিং ফিল্ম"
+        ],
+        "targetProductPage": "/bn/products/furniture-film-laminating-machine/"
+      }
+    ]
+  },
+  {
+    "locale": "sv",
+    "path": "/sv/blog/",
+    "currency": "SEK/EUR",
+    "dateExample": "31 maj 2026",
+    "topics": [
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC tarpaulin laminating machine buying guide",
+        "primaryKeywords": [
+          "PVC-presenning lamineringsmaskin tillverkare",
+          "PVC-presenning lamineringsmaskin leverantör",
+          "PVC-presenning lamineringsmaskin pris",
+          "PVC-presenning lamineringsmaskin offert",
+          "PVC-presenning lamineringsmaskin PVC-film, presenning, tältduk och flexbanner"
+        ],
+        "targetProductPage": "/sv/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "specification",
+        "seedTitle": "1600 mm vs 2000 mm PVC tarpaulin laminating line",
+        "primaryKeywords": [
+          "PVC-presenning lamineringsmaskin tillverkare",
+          "PVC-presenning lamineringsmaskin leverantör",
+          "PVC-presenning lamineringsmaskin pris",
+          "PVC-presenning lamineringsmaskin offert",
+          "PVC-presenning lamineringsmaskin PVC-film, presenning, tältduk och flexbanner"
+        ],
+        "targetProductPage": "/sv/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "comparison",
+        "seedTitle": "Hot oil heating or electric heating for PVC laminating",
+        "primaryKeywords": [
+          "PVC-presenning lamineringsmaskin tillverkare",
+          "PVC-presenning lamineringsmaskin leverantör",
+          "PVC-presenning lamineringsmaskin pris",
+          "PVC-presenning lamineringsmaskin offert",
+          "PVC-presenning lamineringsmaskin PVC-film, presenning, tältduk och flexbanner"
+        ],
+        "targetProductPage": "/sv/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-06",
+        "productId": "tarpaulin-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Flex banner laminating machine quotation checklist",
+        "primaryKeywords": [
+          "PVC-presenning lamineringsmaskin tillverkare",
+          "PVC-presenning lamineringsmaskin leverantör",
+          "PVC-presenning lamineringsmaskin pris",
+          "PVC-presenning lamineringsmaskin offert",
+          "PVC-presenning lamineringsmaskin PVC-film, presenning, tältduk och flexbanner"
+        ],
+        "targetProductPage": "/sv/products/tarpaulin-laminating-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "commercial",
+        "seedTitle": "PVC film gravure printing machine for flexible packaging",
+        "primaryKeywords": [
+          "Djuptrycksmaskin tillverkare",
+          "Djuptrycksmaskin leverantör",
+          "Djuptrycksmaskin pris",
+          "Djuptrycksmaskin offert",
+          "Djuptrycksmaskin PVC, PE, BOPP, CPP, flexibel film och väv"
+        ],
+        "targetProductPage": "/sv/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "material",
+        "seedTitle": "BOPP CPP PE film gravure printer material guide",
+        "primaryKeywords": [
+          "Djuptrycksmaskin tillverkare",
+          "Djuptrycksmaskin leverantör",
+          "Djuptrycksmaskin pris",
+          "Djuptrycksmaskin offert",
+          "Djuptrycksmaskin PVC, PE, BOPP, CPP, flexibel film och väv"
+        ],
+        "targetProductPage": "/sv/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "comparison",
+        "seedTitle": "Shaftless gravure printing machine buyer questions",
+        "primaryKeywords": [
+          "Djuptrycksmaskin tillverkare",
+          "Djuptrycksmaskin leverantör",
+          "Djuptrycksmaskin pris",
+          "Djuptrycksmaskin offert",
+          "Djuptrycksmaskin PVC, PE, BOPP, CPP, flexibel film och väv"
+        ],
+        "targetProductPage": "/sv/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-07",
+        "productId": "gravure-printing-machine",
+        "intent": "technical",
+        "seedTitle": "Ink drying and tension control in film printing lines",
+        "primaryKeywords": [
+          "Djuptrycksmaskin tillverkare",
+          "Djuptrycksmaskin leverantör",
+          "Djuptrycksmaskin pris",
+          "Djuptrycksmaskin offert",
+          "Djuptrycksmaskin PVC, PE, BOPP, CPP, flexibel film och väv"
+        ],
+        "targetProductPage": "/sv/products/gravure-printing-machine/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "commercial",
+        "seedTitle": "Automatic calender winder for PVC sheet lines",
+        "primaryKeywords": [
+          "Upprullare för kalanderlinje tillverkare",
+          "Upprullare för kalanderlinje leverantör",
+          "Upprullare för kalanderlinje pris",
+          "Upprullare för kalanderlinje offert",
+          "Upprullare för kalanderlinje PVC, PE, halvstyv film och styv film"
+        ],
+        "targetProductPage": "/sv/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "specification",
+        "seedTitle": "How to choose winding width and roll diameter",
+        "primaryKeywords": [
+          "Upprullare för kalanderlinje tillverkare",
+          "Upprullare för kalanderlinje leverantör",
+          "Upprullare för kalanderlinje pris",
+          "Upprullare för kalanderlinje offert",
+          "Upprullare för kalanderlinje PVC, PE, halvstyv film och styv film"
+        ],
+        "targetProductPage": "/sv/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "technical",
+        "seedTitle": "Automatic cutter options for center winding machines",
+        "primaryKeywords": [
+          "Upprullare för kalanderlinje tillverkare",
+          "Upprullare för kalanderlinje leverantör",
+          "Upprullare för kalanderlinje pris",
+          "Upprullare för kalanderlinje offert",
+          "Upprullare för kalanderlinje PVC, PE, halvstyv film och styv film"
+        ],
+        "targetProductPage": "/sv/products/calender-winder/"
+      },
+      {
+        "month": "2026-08",
+        "productId": "calender-winder",
+        "intent": "maintenance",
+        "seedTitle": "PVC PE film rewinding machine maintenance checklist",
+        "primaryKeywords": [
+          "Upprullare för kalanderlinje tillverkare",
+          "Upprullare för kalanderlinje leverantör",
+          "Upprullare för kalanderlinje pris",
+          "Upprullare för kalanderlinje offert",
+          "Upprullare för kalanderlinje PVC, PE, halvstyv film och styv film"
+        ],
+        "targetProductPage": "/sv/products/calender-winder/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "commercial",
+        "seedTitle": "Furniture film laminating machine for wood grain film",
+        "primaryKeywords": [
+          "Lamineringsmaskin för möbelfilm tillverkare",
+          "Lamineringsmaskin för möbelfilm leverantör",
+          "Lamineringsmaskin för möbelfilm pris",
+          "Lamineringsmaskin för möbelfilm offert",
+          "Lamineringsmaskin för möbelfilm PVC-dekorfilm, träfilmsfolie och kantbandsfilm"
+        ],
+        "targetProductPage": "/sv/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "layout",
+        "seedTitle": "PVC decorative film line layout checklist",
+        "primaryKeywords": [
+          "Lamineringsmaskin för möbelfilm tillverkare",
+          "Lamineringsmaskin för möbelfilm leverantör",
+          "Lamineringsmaskin för möbelfilm pris",
+          "Lamineringsmaskin för möbelfilm offert",
+          "Lamineringsmaskin för möbelfilm PVC-dekorfilm, träfilmsfolie och kantbandsfilm"
+        ],
+        "targetProductPage": "/sv/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "application",
+        "seedTitle": "Edge banding film laminating and rewinding options",
+        "primaryKeywords": [
+          "Lamineringsmaskin för möbelfilm tillverkare",
+          "Lamineringsmaskin för möbelfilm leverantör",
+          "Lamineringsmaskin för möbelfilm pris",
+          "Lamineringsmaskin för möbelfilm offert",
+          "Lamineringsmaskin för möbelfilm PVC-dekorfilm, träfilmsfolie och kantbandsfilm"
+        ],
+        "targetProductPage": "/sv/products/furniture-film-laminating-machine/"
+      },
+      {
+        "month": "2026-09",
+        "productId": "furniture-film-laminating-machine",
+        "intent": "quotation",
+        "seedTitle": "Furniture film laminating line quotation factors",
+        "primaryKeywords": [
+          "Lamineringsmaskin för möbelfilm tillverkare",
+          "Lamineringsmaskin för möbelfilm leverantör",
+          "Lamineringsmaskin för möbelfilm pris",
+          "Lamineringsmaskin för möbelfilm offert",
+          "Lamineringsmaskin för möbelfilm PVC-dekorfilm, träfilmsfolie och kantbandsfilm"
+        ],
+        "targetProductPage": "/sv/products/furniture-film-laminating-machine/"
+      }
+    ]
+  }
+]

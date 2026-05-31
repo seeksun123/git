@@ -1,0 +1,5 @@
+/en/* /:splat 301
+/zh/* / 302
+/cn/* / 302
+/products/pvc-tarpaulin-laminating-machine/ /products/tarpaulin-laminating-machine/ 301
+/:locale/products/pvc-tarpaulin-laminating-machine/ /:locale/products/tarpaulin-laminating-machine/ 301
