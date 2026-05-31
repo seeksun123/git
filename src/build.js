@@ -61,31 +61,53 @@ for (const locale of locales) {
     "address": site.address
   };
 
-  const homeMain = `<section class="hero">
+  const homeMain = `<section class="hero hero-conversion">
     <div class="hero-inner">
-      <div>
+      <div class="hero-copy">
         <h1>${labels.heroTitle}</h1>
         <p>${labels.heroText}</p>
+        ${proofStrip(locale, labels, ui)}
         <div class="hero-actions">
           <a class="button button-secondary" href="${pagePath(locale, "contact")}">${labels.quote}</a>
           <a class="button" href="${pagePath(locale, "products")}">${labels.nav[1]}</a>
         </div>
       </div>
-      <div class="hero-media">
-        <img src="/assets/img/tarpaulin-laminating-machine.jpg" alt="${labels.productNames["tarpaulin-laminating-machine"]}">
+      <div class="hero-form">
+        <div class="hero-form-head">
+          <h2>${labels.contactTitle}</h2>
+          <p>${labels.formIntro}</p>
+        </div>
+        ${inquiryForm(locale, labels, ui)}
       </div>
     </div>
   </section>
   <section class="section">
-    <h2>${labels.productsTitle}</h2>
+    <div class="section-heading">
+      <h2>${labels.productsTitle}</h2>
+      <p class="lead">${labels.marketNote}</p>
+    </div>
+    ${applicationCards(locale, labels)}
+  </section>
+  <section class="band"><div class="section">
+    <div class="section-heading">
+      <h2>${ui.confirm}</h2>
+      <p class="lead">${labels.formIntro}</p>
+    </div>
+    ${quoteChecklist(locale, ui)}
+  </div></section>
+  <section class="section">
+    <div class="section-heading">
+      <h2>${labels.aboutTitle}</h2>
+      <p class="lead">${companyIntro(locale, labels, ui)}</p>
+    </div>
+    ${proofGrid(locale, labels, ui)}
+    ${processSteps(locale, labels, ui)}
+  </section>
+  <section class="section">
+    <h2>${labels.nav[1]}</h2>
     <p class="lead">${labels.marketNote}</p>
     <div class="product-grid">${site.products.map((product) => productCard(locale, labels, product, materialText(locale, product))).join("")}</div>
   </section>
-  <section class="band"><div class="section section-narrow">
-    <h2>${labels.aboutTitle}</h2>
-    <p class="lead">${companyIntro(locale, labels, ui)}</p>
-    <a class="button" href="${pagePath(locale, "about")}">${labels.nav[2]}</a>
-  </div></section>
   <section class="section">
     <h2>${labels.blogTitle}</h2>
     <div class="blog-grid">${blogTopics.map((topic) => blogCard(locale, labels, topic)).join("")}</div>
@@ -131,15 +153,24 @@ for (const locale of locales) {
           <h1>${productName}</h1>
           <p class="lead">${productIntro(locale, labels, product)}</p>
           <img src="${product.image}" alt="${productName}">
+          ${productLeadBlock(locale, labels, ui, product)}
           <h2>${ui.specs}</h2>
           ${specTable(specRows(locale, ui, product))}
+          ${productDecisionBlock(locale, labels, ui, product)}
           <h2>${ui.keywords}</h2>
           <p>${localizedKeywords(locale, labels, product).join(", ")}</p>
-          <a class="button" href="${pagePath(locale, "contact")}">${labels.quote}</a>
+          <div class="cta-band">
+            <div>
+              <h2>${labels.contactTitle}</h2>
+              <p>${labels.formIntro}</p>
+            </div>
+            <a class="button button-secondary" href="${pagePath(locale, "contact")}">${labels.quote}</a>
+          </div>
         </div>
         <aside>
           <h2>${labels.contactTitle}</h2>
           <p>${labels.formIntro}</p>
+          ${quoteChecklist(locale, ui, "compact")}
           ${inquiryForm(locale, labels, ui, productName)}
         </aside>
       </div>
@@ -281,6 +312,72 @@ function blogCard(locale, labels, topic) {
 
 function articleExcerptFor(labels, title, productName) {
   return `${title}: ${labels.formIntro} ${labels.marketNote} ${productName}.`;
+}
+
+function proofStrip(locale, labels, ui) {
+  const items = [
+    [String(site.founded), ui.experience || labels.aboutTitle],
+    [formatArea(locale), ui.factory || labels.aboutTitle],
+    [String(site.products.length), labels.productsTitle]
+  ];
+  return `<div class="proof-strip">${items.map(([value, label]) => `<div><strong>${value}</strong><span>${label}</span></div>`).join("")}</div>`;
+}
+
+function proofGrid(locale, labels, ui) {
+  const items = [
+    [String(site.founded), ui.experience || labels.aboutTitle],
+    [formatArea(locale), ui.factory || labels.aboutTitle],
+    [String(site.products.length), labels.productsTitle],
+    ["380/415/440 V", ui.voltage]
+  ];
+  return `<div class="metric-grid">${items.map(([value, label]) => `<div class="metric-card"><strong>${value}</strong><span>${label}</span></div>`).join("")}</div>`;
+}
+
+function applicationCards(locale, labels) {
+  return `<div class="application-grid">${site.products.map((product) => {
+    const name = labels.productNames[product.id];
+    return `<article class="application-card">
+      <img src="${product.image}" alt="${name}">
+      <div>
+        <h3>${name}</h3>
+        <p>${materialText(locale, product)}</p>
+        <a href="${pagePath(locale, `products/${product.id}`)}">${labels.readMore}</a>
+      </div>
+    </article>`;
+  }).join("")}</div>`;
+}
+
+function quoteChecklist(locale, ui, mode = "") {
+  const items = [ui.material, ui.width, ui.speed, ui.voltage, ui.country, ui.message];
+  return `<div class="checklist-grid ${mode === "compact" ? "checklist-compact" : ""}">${items.map((item) => `<div class="check-item"><span></span>${item}</div>`).join("")}</div>`;
+}
+
+function processSteps(locale, labels, ui) {
+  const steps = [ui.match, ui.confirm, ui.power, ui.layout];
+  return `<div class="process-grid">${steps.map((step, index) => `<div class="process-step"><span>${new Intl.NumberFormat(locale.code).format(index + 1)}</span><h3>${step}</h3><p>${labels.formIntro}</p></div>`).join("")}</div>`;
+}
+
+function productLeadBlock(locale, labels, ui, product) {
+  const name = labels.productNames[product.id];
+  const points = [materialText(locale, product), product.specs.width || product.specs.application || product.specs.line || ui.width, product.specs.speed || product.specs.voltage || ui.speed];
+  return `<div class="buyer-panel">
+    <h2>${labels.contactTitle}</h2>
+    <p>${productIntro(locale, labels, product)}</p>
+    <div class="decision-grid">${points.map((point) => `<div class="decision-card"><strong>${name}</strong><span>${point}</span></div>`).join("")}</div>
+  </div>`;
+}
+
+function productDecisionBlock(locale, labels, ui, product) {
+  const rows = [
+    [ui.match, materialText(locale, product)],
+    [ui.confirm, `${ui.width}, ${ui.speed}, ${ui.voltage}`],
+    [ui.power, product.specs.voltage || "380 V, 50 Hz"],
+    [ui.layout, labels.formIntro]
+  ];
+  return `<div class="buyer-panel buyer-panel-soft">
+    <h2>${ui.match}</h2>
+    <div class="decision-grid">${rows.map(([title, body]) => `<div class="decision-card"><strong>${title}</strong><span>${body}</span></div>`).join("")}</div>
+  </div>`;
 }
 
 function specRows(locale, ui, product) {
